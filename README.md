@@ -1,1 +1,2 @@
-# klogs-ru
+# Klogs Translate 
+KLOG TRANSLATE rasia
