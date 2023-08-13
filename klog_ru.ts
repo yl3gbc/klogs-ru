@@ -6,135 +6,135 @@
     <message>
         <location filename="../aboutdialog.cpp" line="17"/>
         <source>About KLog</source>
-        <translation type="unfinished"></translation>
+        <translation>О KLog</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="24"/>
         <source>By</source>
-        <translation type="unfinished"></translation>
+        <translation>К</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="26"/>
         <source>KLog is a free logbook for hamradio operators.</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog — бесплатный бортовой журнал для радиолюбителей.</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="27"/>
         <source>Please be aware that this is a development release and it may contain many bugs.&lt;br&gt;Backup your data before using this software!</source>
-        <translation type="unfinished"></translation>
+        <translation>Имейте в виду, что это разрабатываемая версия, и она может содержать много ошибок.&lt;br&gt;Создайте резервную копию своих данных перед использованием этого программного обеспечения!</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="29"/>
         <source>Since 0.6.2, KLog has been fully rewritten to provide a cross-platform application that runs on all major operating systems (Linux, macOS and Windows) and to support new functionality.</source>
-        <translation type="unfinished"></translation>
+        <translation>Начиная с версии 0.6.2, KLog был полностью переписан, чтобы предоставить кроссплатформенное приложение, работающее во всех основных операционных системах (Linux, macOS и Windows) и поддерживающее новые функции.</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="31"/>
         <source>Please provide your review in KLog&apos;s eHam review page:</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста, оставьте свой отзыв на странице отзывов KLog eHam:</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="34"/>
         <source>Find more information and the latest release at</source>
-        <translation type="unfinished"></translation>
+        <translation>Дополнительную информацию и последний выпуск можно найти на</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="35"/>
         <source>Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Автор</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="58"/>
         <location filename="../aboutdialog.cpp" line="59"/>
         <source>today</source>
-        <translation type="unfinished"></translation>
+        <translation>сегодня</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="58"/>
         <source>Main developer</source>
-        <translation type="unfinished"></translation>
+        <translation>Главный разработчик</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="63"/>
         <source>KLog is developed by a very small team and you are invited to join!</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog разрабатывается очень небольшой командой, и мы приглашаем вас присоединиться!</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="63"/>
         <source>If you want to provide support you are welcome to join the &lt;a href=&quot;https://lists.nongnu.org/mailman/listinfo/klog-devel&quot;&gt;KLog development mailing list&lt;/a&gt;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Если вы хотите оказать поддержку, присоединяйтесь к &lt;a href=&quot;https://lists.nongnu.org/mailman/listinfo/klog-devel&quot;&gt;списку рассылки разработчиков KLog&lt;/a&gt;!</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="63"/>
         <source>You can also help us by sending bug reports or small code contributions, ideas or whatever you think may improve KLog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы также можете помочь нам, отправив отчеты об ошибках или небольшие дополнения к коду, идеи или все, что, по вашему мнению, может улучшить KLog.</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="64"/>
         <location filename="../aboutdialog.cpp" line="135"/>
         <source>Authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Авторы</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="79"/>
         <source>Translators bring KLog into your language. They are really an important part of the KLog development team.</source>
-        <translation type="unfinished"></translation>
+        <translation>Переводчики переводят KLog на ваш язык. Они действительно важная часть команды разработчиков KLog.</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="79"/>
         <source>If KLog is still not in your language and you want to help us, you are welcome to contact us through the &lt;a href=&quot;https://lists.nongnu.org/mailman/listinfo/klog-devel&quot;&gt;KLog development mailing list&lt;/a&gt;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Если KLog все еще не на вашем языке и вы хотите помочь нам, вы можете связаться с нами через &lt;a href=&quot;https://lists.nongnu.org/mailman/listinfo/klog-devel&quot;&gt;рассылку по разработке KLog. список&lt;/a&gt;!</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="80"/>
         <location filename="../aboutdialog.cpp" line="136"/>
         <source>Translators</source>
-        <translation type="unfinished"></translation>
+        <translation>Переводчики</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="92"/>
         <source>Privacy advisory</source>
-        <translation type="unfinished"></translation>
+        <translation>Рекомендации по конфиденциальности</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="93"/>
         <source>KLog developers have included a feature that reports some user data to the KLog server with the sole purpose of identifying the number of installed versions, to focus development in one direction or another taking into account users&apos; needs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Разработчики KLog включили функцию, которая передает некоторые пользовательские данные на сервер KLog с единственной целью определения количества установленных версий, чтобы сосредоточить разработку в том или ином направлении с учетом потребностей пользователей.</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="94"/>
         <source>At present, the data that is provided is the following:</source>
-        <translation type="unfinished"></translation>
+        <translation>На данный момент предоставлены следующие данные:</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="95"/>
         <source>Callsign</source>
-        <translation type="unfinished"></translation>
+        <translation>Позывной</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="95"/>
         <source>KLog version</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog-версия</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="95"/>
         <source>Operating system</source>
-        <translation type="unfinished"></translation>
+        <translation>Операционная система</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="96"/>
         <source>Be aware that you can enable/disable this feature from the Misc tab in the Setup page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Имейте в виду, что вы можете включить/отключить эту функцию на вкладке «Разное» на странице «Настройка»</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="134"/>
         <source>KLog</source>
-        <translation type="unfinished"></translation>
+        <translation>Клог</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="137"/>
         <source>Privacy</source>
-        <translation type="unfinished"></translation>
+        <translation>Конфиденциальность</translation>
     </message>
 </context>
 <context>
@@ -142,52 +142,52 @@
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="32"/>
         <source>Select the Station Callsign that you want to use to upload the log.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите позывной станции, который вы хотите использовать для загрузки журнала.</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="35"/>
         <source>Select the start date to export the QSOs. The default date is the date of the first QSO with this station callsign.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите дату начала для экспорта QSO. Датой по умолчанию является дата первого QSO с позывным этой станции.</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="40"/>
         <source>Select the end date to export the QSOs. The default date is the date of the last QSO with this station callsign.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите дату окончания для экспорта QSO. Датой по умолчанию является дата последнего QSO с позывным этой станции.</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="44"/>
         <source>Station callsign</source>
-        <translation type="unfinished"></translation>
+        <translation>Позывной станции</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="47"/>
         <source>Start date</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата начала</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="50"/>
         <source>End date</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата окончания</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="52"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>Хорошо</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="53"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="63"/>
         <source>DX</source>
-        <translation type="unfinished"></translation>
+        <translation>DX</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="63"/>
         <source>Date/Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата/Время</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="63"/>
@@ -197,7 +197,7 @@
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="63"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="106"/>
