@@ -821,22 +821,22 @@ Do you want to try again?</source>
     <message>
         <location filename="../downloadcty.cpp" line="62"/>
         <source>Download of cty.csv failed with the following error code: </source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка файла cty.csv не удалась со следующим кодом ошибки: </translation>
     </message>
     <message>
         <location filename="../downloadcty.cpp" line="74"/>
         <source>Download of cty.csv done.</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка cty.csv завершена.</translation>
     </message>
     <message>
         <location filename="../downloadcty.cpp" line="145"/>
         <source>There is already a cty.csv file in the folder but it will be replaced with the new one.</source>
-        <translation type="unfinished"></translation>
+        <translation>В папке уже есть файл cty.csv, но он будет заменен новым.</translation>
     </message>
     <message>
         <location filename="../downloadcty.cpp" line="174"/>
         <source>Could not open %1 for writing</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось открыть %1 для записи</translation>
     </message>
 </context>
 <context>
@@ -844,47 +844,47 @@ Do you want to try again?</source>
     <message>
         <location filename="../fileawardmanager.cpp" line="13"/>
         <source>Open Award file</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть файл награды</translation>
     </message>
     <message>
         <location filename="../fileawardmanager.cpp" line="13"/>
         <source>Award files (*.awa)</source>
-        <translation type="unfinished"></translation>
+        <translation>Файлы наград (*.awa)</translation>
     </message>
     <message>
         <location filename="../fileawardmanager.cpp" line="19"/>
         <source>Award file not opened</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл с наградой не открыт</translation>
     </message>
     <message>
         <location filename="../fileawardmanager.cpp" line="19"/>
         <source>KLog was not able to read the award file</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog не смог прочитать файл награды</translation>
     </message>
     <message>
         <location filename="../fileawardmanager.cpp" line="19"/>
         <source>It was not possible to open the file %1 for reading.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось открыть файл %1 для чтения.</translation>
     </message>
     <message>
         <location filename="../fileawardmanager.cpp" line="62"/>
         <source>AWA wrong format</source>
-        <translation type="unfinished"></translation>
+        <translation>Неправильный формат AWA</translation>
     </message>
     <message>
         <location filename="../fileawardmanager.cpp" line="62"/>
         <source>The AWA file does not have the right format</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл AWA имеет неправильный формат</translation>
     </message>
     <message>
         <location filename="../fileawardmanager.cpp" line="62"/>
         <source>AWA file does not have an &lt;EOH&gt; field</source>
-        <translation type="unfinished"></translation>
+        <translation>В файле AWA нет поля &lt;EOH&gt;</translation>
     </message>
     <message>
         <location filename="../fileawardmanager.cpp" line="206"/>
         <source>KLog - %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Клог — %1</translation>
     </message>
 </context>
 <context>
@@ -1474,22 +1474,22 @@ Do you want KLog to add this QSO to the log?</source>
     <message>
         <location filename="../startwizard.cpp" line="182"/>
         <source>KLog License information</source>
-        <translation type="unfinished"></translation>
+        <translation>Информация о лицензии KLog</translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="185"/>
         <source>Welcome to KLog!- brought to you under the terms of the GPL!</source>
-        <translation type="unfinished"></translation>
+        <translation>Добро пожаловать в KLog! — предоставляется вам на условиях GPL!</translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="826"/>
         <source>Acknowledge</source>
-        <translation type="unfinished"></translation>
+        <translation>Сознавать</translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="827"/>
         <source>Be aware that KLog is free software.</source>
-        <translation type="unfinished"></translation>
+        <translation>Имейте в виду, что KLog — бесплатное программное обеспечение.</translation>
     </message>
 </context>
 <context>
@@ -1695,7 +1695,7 @@ Error returned: %2</source>
     <message>
         <location filename="../logmodel.cpp" line="105"/>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата</translation>
     </message>
     <message>
         <location filename="../logmodel.cpp" line="108"/>
@@ -1715,17 +1715,17 @@ Error returned: %2</source>
     <message>
         <location filename="../logmodel.cpp" line="117"/>
         <source>RSTtx</source>
-        <translation type="unfinished"></translation>
+        <translation>RSTtx</translation>
     </message>
     <message>
         <location filename="../logmodel.cpp" line="120"/>
         <source>RSTrx</source>
-        <translation type="unfinished"></translation>
+        <translation>RSTrx</translation>
     </message>
     <message>
         <location filename="../logmodel.cpp" line="123"/>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Комментарий</translation>
     </message>
 </context>
 <context>
@@ -3643,23 +3643,23 @@ Frequency is not in a hamradio band!</source>
     <message>
         <location filename="../mainwindowinputcomment.cpp" line="47"/>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Комментарий</translation>
     </message>
     <message>
         <location filename="../mainwindowinputcomment.cpp" line="49"/>
         <source>Add a comment for this QSO.</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавьте комментарий к этому QSO.</translation>
     </message>
     <message>
         <location filename="../mainwindowinputcomment.cpp" line="52"/>
         <source>Keep this data</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохраните эти данные</translation>
     </message>
     <message>
         <location filename="../mainwindowinputcomment.cpp" line="54"/>
         <location filename="../mainwindowinputcomment.cpp" line="56"/>
         <source>Data entered in this tab will be copied into the next QSO.</source>
-        <translation type="unfinished"></translation>
+        <translation>Данные, введенные на этой вкладке, будут скопированы в следующее QSO.</translation>
     </message>
 </context>
 <context>
@@ -6694,22 +6694,22 @@ The log will not be opened.</source>
     <message>
         <location filename="../widgets/showadifimportwidget.cpp" line="19"/>
         <source>The following QSOs are those QSOs that you have received the LoTW confirmation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Следующие QSO - это те QSO, на которые вы получили подтверждение LoTW.</translation>
     </message>
     <message>
         <location filename="../widgets/showadifimportwidget.cpp" line="20"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>Хорошо</translation>
     </message>
     <message>
         <location filename="../widgets/showadifimportwidget.cpp" line="30"/>
         <source>DX</source>
-        <translation type="unfinished"></translation>
+        <translation>DX</translation>
     </message>
     <message>
         <location filename="../widgets/showadifimportwidget.cpp" line="30"/>
         <source>Date/Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Date/Time</translation>
     </message>
     <message>
         <location filename="../widgets/showadifimportwidget.cpp" line="30"/>
@@ -6727,7 +6727,7 @@ The log will not be opened.</source>
     <message>
         <location filename="../showerrordialog.cpp" line="9"/>
         <source>KLog Message</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog-сообщение</translation>
     </message>
 </context>
 <context>
@@ -6763,17 +6763,17 @@ The log will not be opened.</source>
     <message>
         <location filename="../startwizard.cpp" line="42"/>
         <source>KLog - The free hamradio logging program</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog — бесплатная программа для ведения радиолюбителей</translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="68"/>
         <source>Quit Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Выйти из настройки</translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="68"/>
         <source>Setup is not complete yet. Are you sure you want to quit setup?</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройка еще не завершена. Вы уверены, что хотите выйти из программы установки?</translation>
     </message>
 </context>
 <context>
@@ -7191,37 +7191,37 @@ The log will not be opened.</source>
     <message>
         <location filename="../charts/statsqsospermodebarchartwidget.cpp" line="47"/>
         <source>QSOs per mode</source>
-        <translation type="unfinished"></translation>
+        <translation>QSO в каждом режиме</translation>
     </message>
     <message>
         <location filename="../charts/statsqsospermodebarchartwidget.cpp" line="51"/>
         <source>Reading data ... </source>
-        <translation type="unfinished"></translation>
+        <translation>Чтение данных ... </translation>
     </message>
     <message>
         <location filename="../charts/statsqsospermodebarchartwidget.cpp" line="51"/>
         <source>Abort reading</source>
-        <translation type="unfinished"></translation>
+        <translation>Прервать чтение</translation>
     </message>
     <message>
         <location filename="../charts/statsqsospermodebarchartwidget.cpp" line="56"/>
         <source>Modes</source>
-        <translation type="unfinished"></translation>
+        <translation>режими</translation>
     </message>
     <message>
         <location filename="../charts/statsqsospermodebarchartwidget.cpp" line="57"/>
         <source>QSOs per mode distribution</source>
-        <translation type="unfinished"></translation>
+        <translation>QSO на распределение видов</translation>
     </message>
     <message>
         <location filename="../charts/statsqsospermodebarchartwidget.cpp" line="67"/>
         <source>Reading data ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Чтение данных...</translation>
     </message>
     <message>
         <location filename="../charts/statsqsospermodebarchartwidget.cpp" line="67"/>
         <source>Modes: </source>
-        <translation type="unfinished"></translation>
+        <translation>режими: </translation>
     </message>
 </context>
 <context>
@@ -7361,17 +7361,17 @@ The log will not be opened.</source>
     <message>
         <location filename="../charts/statssentconfirmedpiechartwidget.cpp" line="39"/>
         <source>Sent - %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправлено — %1</translation>
     </message>
     <message>
         <location filename="../charts/statssentconfirmedpiechartwidget.cpp" line="40"/>
         <source>Confirmed - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Подтверждено - %2</translation>
     </message>
     <message>
         <location filename="../charts/statssentconfirmedpiechartwidget.cpp" line="55"/>
         <source>Sent / Confirmed status</source>
-        <translation type="unfinished"></translation>
+        <translation>Статус отправлен/подтвержден</translation>
     </message>
 </context>
 <context>
@@ -7379,17 +7379,17 @@ The log will not be opened.</source>
     <message>
         <location filename="../charts/statsworkedconfirmedpiechartwidget.cpp" line="39"/>
         <source>Worked, not confirmed - %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Сработало, не подтверждено - %1</translation>
     </message>
     <message>
         <location filename="../charts/statsworkedconfirmedpiechartwidget.cpp" line="40"/>
         <source>Confirmed - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Подтверждено - %2</translation>
     </message>
     <message>
         <location filename="../charts/statsworkedconfirmedpiechartwidget.cpp" line="55"/>
         <source>Worked / Confirmed status</source>
-        <translation type="unfinished"></translation>
+        <translation>Рабочий / Подтвержденный статус</translation>
     </message>
 </context>
 <context>
@@ -7397,17 +7397,17 @@ The log will not be opened.</source>
     <message>
         <location filename="../charts/statsworkedsentpiechartwidget.cpp" line="39"/>
         <source>Worked - %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Сработало - %1</translation>
     </message>
     <message>
         <location filename="../charts/statsworkedsentpiechartwidget.cpp" line="40"/>
         <source>Sent - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправлено — %2</translation>
     </message>
     <message>
         <location filename="../charts/statsworkedsentpiechartwidget.cpp" line="56"/>
         <source>Worked / Sent status</source>
-        <translation type="unfinished"></translation>
+        <translation>Статус Работал/Отправлено</translation>
     </message>
 </context>
 <context>
@@ -7552,27 +7552,27 @@ The log will not be opened.</source>
     <message>
         <location filename="../updatesatsdata.cpp" line="59"/>
         <source>Reading Satellites data file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Чтение файла данных спутников...</translation>
     </message>
     <message>
         <location filename="../updatesatsdata.cpp" line="59"/>
         <source>Abort reading</source>
-        <translation type="unfinished"></translation>
+        <translation>Прервать чтение</translation>
     </message>
     <message>
         <location filename="../updatesatsdata.cpp" line="213"/>
         <source>The Satellites information has been updated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Информация о спутниках обновлена.</translation>
     </message>
     <message>
         <location filename="../updatesatsdata.cpp" line="231"/>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть файл</translation>
     </message>
     <message>
         <location filename="../updatesatsdata.cpp" line="233"/>
         <source>Sat Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Спутниковые данные</translation>
     </message>
 </context>
 <context>
@@ -7580,22 +7580,22 @@ The log will not be opened.</source>
     <message>
         <location filename="../world.cpp" line="199"/>
         <source>Entity</source>
-        <translation type="unfinished"></translation>
+        <translation>Сущность</translation>
     </message>
     <message>
         <location filename="../world.cpp" line="200"/>
         <source>Continent</source>
-        <translation type="unfinished"></translation>
+        <translation>Континент</translation>
     </message>
     <message>
         <location filename="../world.cpp" line="1237"/>
         <source>Reading cty.csv...</source>
-        <translation type="unfinished"></translation>
+        <translation>Чтение cty.csv...</translation>
     </message>
     <message>
         <location filename="../world.cpp" line="1237"/>
         <source>Abort reading</source>
-        <translation type="unfinished"></translation>
+        <translation>Прервать чтение</translation>
     </message>
 </context>
 <context>
