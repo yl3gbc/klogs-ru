@@ -607,202 +607,213 @@ Do you want to try again?</source>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="121"/>
         <source>Software version in DB is null</source>
-        <translation type="unfinished"></translation>
+        <translation>Версия ПО в БД нулевая</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="121"/>
         <source>Query didn&apos;t failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Запрос не провалился</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4422"/>
         <source>Aircraft Scatter</source>
         <comment>Common term in hamradio, do not translate if not sure</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Распространенный термин в радиолюбителях, не переводите, если не уверены</translatorcomment>
+        <translation>Разброс самолетов</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4426"/>
         <source>Aurora</source>
-        <translation type="unfinished"></translation>
+        <translation>Аврора</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4430"/>
         <source>Aurora-E</source>
-        <translation type="unfinished"></translation>
+        <translation>Аврора-Э</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4434"/>
         <source>Back scatter</source>
         <comment>Common term in hamradio, do not translate if not sure</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Распространенный термин в радиолюбителях, не переводите, если не уверены</translatorcomment>
+        <translation>Обратное рассеивание</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4438"/>
         <source>Earth-Moon-Earth</source>
-        <translation type="unfinished"></translation>
+        <translation>Земля-Луна-Земля</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4442"/>
         <source>Sporadic E</source>
-        <translation type="unfinished"></translation>
+        <translation>Спорадический E</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4446"/>
         <source>Field Aligned Irregularities</source>
         <comment>Common term in hamradio, do not translate if not sure</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Распространенный термин в радиолюбителях, не переводите, если не уверены</translatorcomment>
+        <translation type="unfinished">Неровности, выровненные по полю</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4450"/>
         <source>F2 Reflection</source>
         <comment>Common term in hamradio, do not translate if not sure</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Распространенный термин в радиолюбителях, не переводите, если не уверены</translatorcomment>
+        <translation>F2 Отражение</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4454"/>
         <source>Internet-assisted</source>
-        <translation type="unfinished"></translation>
+        <translation>с помощью Интернета</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4458"/>
         <source>Ionoscatter</source>
         <comment>Common term in hamradio, do not translate if not sure</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Распространенный термин в радиолюбителях, не переводите, если не уверены</translatorcomment>
+        <translation>ионорассеяние</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4462"/>
         <source>Meteor scatter</source>
         <comment>Common term in hamradio, do not translate if not sure</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Распространенный термин в радиолюбителях, не переводите, если не уверены</translatorcomment>
+        <translation>Разброс метеоров</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4466"/>
         <source>Terrestrial or atmospheric repeater or transponder</source>
-        <translation type="unfinished"></translation>
+        <translation>Наземный или атмосферный ретранслятор или транспондер</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4470"/>
         <source>Rain scatter</source>
         <comment>Common term in hamradio, do not translate if not sure</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Распространенный термин в радиолюбителях, не переводите, если не уверены</translatorcomment>
+        <translation>Рассеяние дождя</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4474"/>
         <source>Satellite</source>
-        <translation type="unfinished"></translation>
+        <translation>спутник</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4478"/>
         <source>Trans-equatorial</source>
         <comment>Common term in hamradio, do not translate if not sure</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Распространенный термин в радиолюбителях, не переводите, если не уверены</translatorcomment>
+        <translation>Трансэкваториальный</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4482"/>
         <source>Tropospheric ducting</source>
         <comment>Common term in hamradio, do not translate if not sure</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Распространенный термин в радиолюбителях, не переводите, если не уверены</translatorcomment>
+        <translation>Тропосферный воздуховод</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="5041"/>
         <location filename="../dataproxy_sqlite.cpp" line="5108"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Да</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="5045"/>
         <location filename="../dataproxy_sqlite.cpp" line="5112"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="5049"/>
         <location filename="../dataproxy_sqlite.cpp" line="5116"/>
         <source>Requested</source>
-        <translation type="unfinished"></translation>
+        <translation>Запрошено</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="5053"/>
         <location filename="../dataproxy_sqlite.cpp" line="5124"/>
         <source>Ignore/Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Игнорировать/Недействительно</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="5057"/>
         <source>Validated</source>
-        <translation type="unfinished"></translation>
+        <translation>Утверждено</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="5120"/>
         <source>Queued</source>
-        <translation type="unfinished"></translation>
+        <translation>В очереди</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="5172"/>
         <source>Uploaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Загружено</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="5176"/>
         <source>Do not upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Не загружать</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="5180"/>
         <source>Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменено</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="5230"/>
         <source>Bureau</source>
         <comment>Common term in hamradio, do not translate if not sure</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Распространенный термин в радиолюбителях, не переводите, если не уверены</translatorcomment>
+        <translation>Бюро</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="5234"/>
         <source>Direct</source>
-        <translation type="unfinished"></translation>
+        <translation>Прямой</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="5238"/>
         <source>Electronic</source>
-        <translation type="unfinished"></translation>
+        <translation>Электронный</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="5242"/>
         <source>Manager</source>
         <comment>Common term in hamradio, do not translate if not sure</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Распространенный термин в радиолюбителях, не переводите, если не уверены</translatorcomment>
+        <translation>Менеджер</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="6131"/>
         <source>KLog DXCC</source>
-        <translation type="unfinished"></translation>
+        <translation>Клог DXCC</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="6132"/>
         <source>All QSOs have been updated with a DXCC and the Continent.</source>
-        <translation type="unfinished"></translation>
+        <translation>Все QSO были обновлены с DXCC и Continent.</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="9205"/>
         <source>KLog - Invalid call detected</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog — Обнаружен недействительный вызов</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="9211"/>
         <source>An empty callsign has been detected. Do you want to export this QSO anyway (click on Yes) or remove the field from the exported ADIF record?</source>
-        <translation type="unfinished"></translation>
+        <translation>Обнаружен пустой позывной. Вы все равно хотите экспортировать это QSO (нажмите Да) или удалить это поле из экспортируемой записи ADIF?</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="9216"/>
         <source>An invalid callsign has been detected %1. Do you want to export this callsign anyway (click on Yes) or remove the call from the exported log?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Обнаружен неверный позывной %1. Вы все равно хотите экспортировать этот позывной (нажмите Да) или удалить позывной из экспортированного журнала?</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="9220"/>
         <source>Exporting wrong calls may create problems in the applications you are potentially importing this logfile to. It may, however, be a good callsign that is wrongly identified by KLog as not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспорт неправильных вызовов может создать проблемы в приложениях, в которые вы потенциально импортируете этот файл журнала. Однако это может быть хороший позывной, который KLog ошибочно идентифицирует как недействительный.</translation>
     </message>
 </context>
 <context>
