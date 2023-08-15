@@ -265,121 +265,121 @@
     <message>
         <location filename="../awardswidget.cpp" line="71"/>
         <source>Recalculate</source>
-        <translation type="unfinished"></translation>
+        <translation>Пересчитать</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="72"/>
         <source>Click to recalculate the award status.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите, чтобы пересчитать статус награды.</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="73"/>
         <location filename="../awardswidget.cpp" line="268"/>
         <source>Select the year you want to check.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите год, который хотите проверить.</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="75"/>
         <location filename="../awardswidget.cpp" line="96"/>
         <source>QSOs</source>
-        <translation type="unfinished"></translation>
+        <translation>QSOs</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="76"/>
         <location filename="../awardswidget.cpp" line="87"/>
         <source>DXCC</source>
-        <translation type="unfinished"></translation>
+        <translation>DXCC</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="77"/>
         <source>CQ</source>
-        <translation type="unfinished"></translation>
+        <translation>CQ</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="79"/>
         <source>Award</source>
-        <translation type="unfinished"></translation>
+        <translation>Награда</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="81"/>
         <source>Confirmed</source>
-        <translation type="unfinished"></translation>
+        <translation>Подтвержденный</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="84"/>
         <source>Worked</source>
-        <translation type="unfinished"></translation>
+        <translation>Работал</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="90"/>
         <source>WAZ</source>
-        <translation type="unfinished"></translation>
+        <translation>WAZ</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="161"/>
         <source>Score</source>
-        <translation type="unfinished"></translation>
+        <translation>Счет</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="162"/>
         <location filename="../awardswidget.cpp" line="388"/>
         <source>Annual</source>
-        <translation type="unfinished"></translation>
+        <translation>Ежегодный</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="255"/>
         <source>Number of confirmed DXCC entities.</source>
-        <translation type="unfinished"></translation>
+        <translation>Количество подтвержденных участников DXCC.</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="256"/>
         <source>Number of worked DXCC entities.</source>
-        <translation type="unfinished"></translation>
+        <translation>Количество отработанных объектов DXCC.</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="257"/>
         <source>Number of confirmed WAZ zones.</source>
-        <translation type="unfinished"></translation>
+        <translation>Подтвержденных зон WAZ.</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="258"/>
         <source>Number of worked WAZ zones.</source>
-        <translation type="unfinished"></translation>
+        <translation>Количество отработанных зон WAZ.</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="261"/>
         <source>Number of confirmed QSOs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Количество подтвержденных QSO.</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="262"/>
         <source>Number of worked QSOs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Количество отработанных QSO.</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="264"/>
         <source>Number of QSOs worked in the selected year.</source>
-        <translation type="unfinished"></translation>
+        <translation>Количество проведенных QSO в выбранном году.</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="265"/>
         <source>Number of DXCCs worked in the selected year.</source>
-        <translation type="unfinished"></translation>
+        <translation>Количество DXCC, работающих в выбранном году.</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="266"/>
         <source>Number of CQ Zones worked in the selected year.</source>
-        <translation type="unfinished"></translation>
+        <translation>Количество зон CQ, работающих в выбранном году.</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="267"/>
         <source>Score for the DXMarathon in the selected year.</source>
-        <translation type="unfinished"></translation>
+        <translation>Оценка за DXMarathon в выбранном году.</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="381"/>
         <source>DX-Marathon</source>
-        <translation type="unfinished"></translation>
+        <translation>DX-марафон</translation>
     </message>
 </context>
 <context>
@@ -387,12 +387,12 @@
     <message>
         <location filename="../startwizard.cpp" line="915"/>
         <source>Country data download</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка данных о стране</translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="918"/>
         <source>KLog needs country data...</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog нужны данные о стране...</translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="924"/>
@@ -407,33 +407,34 @@
     <message>
         <location filename="../startwizard.cpp" line="944"/>
         <source>Country data needed</source>
-        <translation type="unfinished"></translation>
+        <translation>Нужны данные о стране</translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="947"/>
         <source>KLog uses the cty.csv file from https://www.country-files.com/ to get DXCC information.</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog использует файл cty.csv с https://www.country-files.com/ для получения информации DXCC.</translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="949"/>
         <source>You need to download the cty.csv file if you want KLog to show you the countries, locator, etc. of the QSOs you do.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вам необходимо загрузить файл cty.csv, если вы хотите, чтобы KLog показывал вам страны, локаторы и т. д. ваших QSO.</translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="951"/>
         <source>Click on Download to download now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите «Загрузить», чтобы загрузить сейчас.</translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="1032"/>
         <source>KLog</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog</translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="1033"/>
         <source>I can&apos;t find the host. Please check your network and try again
 Do you want to try again?</source>
-        <translation type="unfinished"></translation>
+        <translation>Я не могу найти хозяина. Проверьте свою сеть и повторите попытку.
+Хотите попробовать еще раз?</translation>
     </message>
 </context>
 <context>
@@ -441,12 +442,12 @@ Do you want to try again?</source>
     <message>
         <location filename="../dxccstatuswidget.cpp" line="54"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновлять</translation>
     </message>
     <message>
         <location filename="../dxccstatuswidget.cpp" line="323"/>
         <source>Prefix</source>
-        <translation type="unfinished"></translation>
+        <translation>Префикс</translation>
     </message>
     <message>
         <location filename="../dxccstatuswidget.cpp" line="323"/>
@@ -456,27 +457,27 @@ Do you want to try again?</source>
     <message>
         <location filename="../dxccstatuswidget.cpp" line="441"/>
         <source>Pref: </source>
-        <translation type="unfinished"></translation>
+        <translation>Pref: </translation>
     </message>
     <message>
         <location filename="../dxccstatuswidget.cpp" line="442"/>
         <source>CQ: </source>
-        <translation type="unfinished"></translation>
+        <translation>CQ: </translation>
     </message>
     <message>
         <location filename="../dxccstatuswidget.cpp" line="443"/>
         <source>ITU: </source>
-        <translation type="unfinished"></translation>
+        <translation>ITU: </translation>
     </message>
     <message>
         <location filename="../dxccstatuswidget.cpp" line="445"/>
         <source>Beam: </source>
-        <translation type="unfinished"></translation>
+        <translation>Луч: </translation>
     </message>
     <message>
         <location filename="../dxccstatuswidget.cpp" line="452"/>
         <source>Entity not worked in this band.</source>
-        <translation type="unfinished"></translation>
+        <translation>Сущность не работала в этой группе.</translation>
     </message>
 </context>
 <context>
@@ -484,13 +485,13 @@ Do you want to try again?</source>
     <message>
         <location filename="../dxcluster.cpp" line="74"/>
         <source>Click on Connect to connect to the DX-Cluster server</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите «Подключиться», чтобы подключиться к серверу DX-Cluster.</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="78"/>
         <location filename="../dxcluster.cpp" line="542"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>Соединять</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="79"/>
@@ -498,105 +499,107 @@ Do you want to try again?</source>
         <location filename="../dxcluster.cpp" line="600"/>
         <location filename="../dxcluster.cpp" line="605"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Прозрачный</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="156"/>
         <source>Click on connect to connect to the DX-Cluster</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите «Подключиться», чтобы подключиться к DX-кластеру.</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="216"/>
         <source>Trying to connect to the server</source>
-        <translation type="unfinished"></translation>
+        <translation>Пытаюсь подключиться к серверу</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="228"/>
         <location filename="../dxcluster.cpp" line="234"/>
         <location filename="../dxcluster.cpp" line="241"/>
         <source>KLog DXCluster</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog DXCluster</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="229"/>
         <source>The host was not found. Please check:</source>
-        <translation type="unfinished"></translation>
+        <translation>Хозяин не найден. Пожалуйста, проверьте:</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="230"/>
         <source>- your network connection;
 - the host name and port settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>- ваше сетевое подключение;
+- имя хоста и настройки порта.</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="235"/>
         <source>The connection was refused by the peer. Make sure the DXCluster server is running, and check that the host name and port settings are correct.</source>
-        <translation type="unfinished"></translation>
+        <translation>Соединение было отклонено узлом. Убедитесь, что сервер DXCluster запущен, и проверьте правильность имени хоста и параметров порта.</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="242"/>
         <source>The following error occurred: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Произошла следующая ошибка: %1.</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="494"/>
         <source>Connected to server</source>
-        <translation type="unfinished"></translation>
+        <translation>Подключено к серверу</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="507"/>
         <location filename="../dxcluster.cpp" line="511"/>
         <location filename="../dxcluster.cpp" line="515"/>
         <source>KLog message</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog-сообщение</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="507"/>
         <location filename="../dxcluster.cpp" line="511"/>
         <source>Enter your callsign to connect to the cluster:</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите свой позывной для подключения к кластеру:</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="515"/>
         <source>Enter your password to connect to the cluster:
 (Just hit enter for no password)</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите пароль для подключения к кластеру:
+(Просто нажмите Enter, чтобы не было пароля)</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="520"/>
         <location filename="../dxcluster.cpp" line="599"/>
         <source>Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключить</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="524"/>
         <source>Not logged on, you may need to enter your callsign again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы не вошли в систему, возможно, вам придется снова ввести свой позывной.</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="528"/>
         <source>Enter here the commands to be sent to the DX-Cluster server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите здесь команды, которые будут отправлены на сервер DX-Cluster.</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="538"/>
         <source>Connection closed by the server</source>
-        <translation type="unfinished"></translation>
+        <translation>Соединение закрыто сервером</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="544"/>
         <source>Click on Connect to connect to the DX-Cluster server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите Connect, чтобы подключиться к серверу DX-Cluster.</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="604"/>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправлять</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="791"/>
         <source>It was not possible to open the file to save the DX-Spots for writing. DX-Cluster activity will not be saved!</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось открыть файл для сохранения DX-Spots для записи. Активность DX-кластера не будет сохранена!</translation>
     </message>
 </context>
 <context>
