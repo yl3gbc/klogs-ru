@@ -202,62 +202,62 @@
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="106"/>
         <source>Not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>Не определен</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="111"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Все</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="200"/>
         <source>QSOs: </source>
-        <translation type="unfinished"></translation>
+        <translation>QSOs: </translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="324"/>
         <source>KLog - QSOs to be uploaded to LoTW.</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog - QSO для загрузки в LoTW.</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="325"/>
         <source>This table shows the QSOs that will be sent to LoTW.</source>
-        <translation type="unfinished"></translation>
+        <translation>В этой таблице показаны QSO, которые будут отправлены в LoTW.</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="329"/>
         <source>KLog - QSOs to be uploaded to ClubLog.</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog - QSO для загрузки в ClubLog.</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="330"/>
         <source>This table shows the QSOs that will be sent to ClubLog.</source>
-        <translation type="unfinished"></translation>
+        <translation>В этой таблице показаны QSO, которые будут отправлены в ClubLog.</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="334"/>
         <source>KLog - QSOs to be uploaded to eQSL.cc.</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog - QSO для загрузки на eQSL.cc.</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="335"/>
         <source>This table shows the QSOs that will be sent to eQSL.cc.</source>
-        <translation type="unfinished"></translation>
+        <translation>В этой таблице показаны QSO, которые будут отправлены на eQSL.cc.</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="339"/>
         <source>KLog - QSOs to be uploaded to QRZ.com.</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog - QSO для загрузки на QRZ.com.</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="340"/>
         <source>This table shows the QSOs that will be sent to QRZ.com.</source>
-        <translation type="unfinished"></translation>
+        <translation>В этой таблице показаны QSO, которые будут отправлены на QRZ.com.</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="345"/>
         <source>This table shows the QSOs that will be exported to ADIF.</source>
-        <translation type="unfinished"></translation>
+        <translation>В этой таблице показаны QSO, которые будут экспортированы в ADIF.</translation>
     </message>
 </context>
 <context>
