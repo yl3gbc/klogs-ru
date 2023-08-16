@@ -1736,7 +1736,7 @@ Error returned: %2</source>
     <message>
         <location filename="../logwindow.cpp" line="258"/>
         <source>QSL Send</source>
-        <translation type="unfinished"></translation>
+        <translation>QSL отправить</translation>
     </message>
     <message>
         <location filename="../logwindow.cpp" line="270"/>
