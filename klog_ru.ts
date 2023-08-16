@@ -965,13 +965,13 @@ Do you want to try again?</source>
         <location filename="../filemanager.cpp" line="1467"/>
         <location filename="../filemanager.cpp" line="1954"/>
         <source>Do you still want to cancel?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы все еще хотите отменить?</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="466"/>
         <location filename="../filemanager.cpp" line="673"/>
         <source>Export progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспорт прогресса</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="487"/>
