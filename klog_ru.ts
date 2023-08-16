@@ -7606,32 +7606,32 @@ The log will not be opened.</source>
     <message>
         <location filename="../worldmapwidget.cpp" line="9"/>
         <source>World map</source>
-        <translation type="unfinished"></translation>
+        <translation>Карта мира</translation>
     </message>
     <message>
         <location filename="../worldmapwidget.cpp" line="204"/>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Вид</translation>
     </message>
     <message>
         <location filename="../worldmapwidget.cpp" line="205"/>
         <source>Zoom In(25%)</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличить (25%)</translation>
     </message>
     <message>
         <location filename="../worldmapwidget.cpp" line="209"/>
         <source>Zoom Out(25%)</source>
-        <translation type="unfinished"></translation>
+        <translation>Уменьшить (25%)</translation>
     </message>
     <message>
         <location filename="../worldmapwidget.cpp" line="213"/>
         <source>Normal Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Нормальный размер</translation>
     </message>
     <message>
         <location filename="../worldmapwidget.cpp" line="216"/>
         <source>Fit to window</source>
-        <translation type="unfinished"></translation>
+        <translation>Подходит к окну</translation>
     </message>
 </context>
 <context>
@@ -7863,63 +7863,64 @@ You need a QRZ.com subscription to use this feature.</source>
         <location filename="../eqslutilities.cpp" line="64"/>
         <location filename="../eqslutilities.cpp" line="98"/>
         <source>KLog - eQSL</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog - eQSL</translation>
     </message>
     <message>
         <location filename="../eqslutilities.cpp" line="64"/>
         <source>eQSL has sent the following message:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>eQSL отправил следующее сообщение:
+%1</translation>
     </message>
     <message>
         <location filename="../eqslutilities.cpp" line="85"/>
         <source>Host not found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Хост не найден!</translation>
     </message>
     <message>
         <location filename="../eqslutilities.cpp" line="91"/>
         <source>Timeout error!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка таймаута!</translation>
     </message>
     <message>
         <location filename="../eqslutilities.cpp" line="97"/>
         <source>Undefined error number (#%1)... </source>
-        <translation type="unfinished"></translation>
+        <translation>Неопределенный номер ошибки (#%1)... </translation>
     </message>
     <message>
         <location filename="../eqslutilities.cpp" line="99"/>
         <source>We have received an undefined error from eQSL (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Мы получили неопределенную ошибку от eQSL (%1)</translation>
     </message>
     <message>
         <location filename="../eqslutilities.cpp" line="100"/>
         <source>Please check your config in the setup and contact the KLog development team if you can&apos;t fix it. eQSL uploads will be disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста, проверьте свою конфигурацию в настройках и свяжитесь с командой разработчиков KLog, если вы не можете это исправить. Загрузка eQSL будет отключена.</translation>
     </message>
     <message>
         <location filename="../eqslutilities.cpp" line="156"/>
         <source>eQSL Error: User or password incorrect</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка eQSL: неправильный пользователь или пароль</translation>
     </message>
     <message>
         <location filename="../eqslutilities.cpp" line="162"/>
         <source>eQSL Warning: At least one of the uplodaded QSOs is duplicated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Предупреждение eQSL: по крайней мере одно из загруженных QSO продублировано.</translation>
     </message>
     <message>
         <location filename="../eqslutilities.cpp" line="167"/>
         <source>eQSL: All the QSOs were properly uploaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>eQSL: Все QSO были правильно загружены.</translation>
     </message>
     <message>
         <location filename="../eqslutilities.cpp" line="221"/>
         <source>KLog - eQSL.cc password needed</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog - требуется пароль eQSL.cc</translation>
     </message>
     <message>
         <location filename="../eqslutilities.cpp" line="221"/>
         <source>Please enter your eQSL.cc password: </source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста, введите свой пароль eQSL.cc: </translation>
     </message>
 </context>
 </TS>
