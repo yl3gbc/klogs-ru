@@ -892,52 +892,53 @@ Do you want to try again?</source>
     <message>
         <location filename="../filemanager.cpp" line="171"/>
         <source>KLog - Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Клог – ошибка</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="193"/>
         <source>The selected log does not exist, please check it again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбранный журнал не существует, проверьте его еще раз.</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="248"/>
         <source>The selected callsign (%1) is not valid, please check it again to export the log.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбранный позывной (%1) недействителен, проверьте его еще раз, чтобы экспортировать журнал.</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="255"/>
         <source>The file %1 can&apos;t be opened.</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл %1 не может быть открыт.</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="322"/>
         <source>There are no QSOs pending to be exported with that station callsign.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет ожидающих экспорта QSO с этим позывным станции.</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="333"/>
         <location filename="../filemanager.cpp" line="463"/>
         <location filename="../filemanager.cpp" line="670"/>
         <source>Writing ADIF file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Запись файла ADIF...</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="333"/>
         <location filename="../filemanager.cpp" line="463"/>
         <location filename="../filemanager.cpp" line="670"/>
         <source>Abort writing</source>
-        <translation type="unfinished"></translation>
+        <translation>Прервать запись</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="337"/>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспорт</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="382"/>
         <source>Exporting ADIF file...
  QSO: %1 / %2 </source>
-        <translation type="unfinished"></translation>
+        <translation>Экспорт файла ADIF...
+ QSO: %1 / %2 </translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="391"/>
@@ -947,14 +948,14 @@ Do you want to try again?</source>
         <location filename="../filemanager.cpp" line="1466"/>
         <location filename="../filemanager.cpp" line="1953"/>
         <source>KLog - User cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog — Пользователь удален</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="392"/>
         <location filename="../filemanager.cpp" line="497"/>
         <location filename="../filemanager.cpp" line="706"/>
         <source>You have canceled the file export. The file will be removed and no data will be exported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы отменили экспорт файла. Файл будет удален, и данные не будут экспортированы.</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="392"/>
