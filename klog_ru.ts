@@ -978,13 +978,14 @@ Do you want to try again?</source>
         <location filename="../filemanager.cpp" line="696"/>
         <source>Writing ADIF file...
  QSO: </source>
-        <translation type="unfinished"></translation>
+        <translation>Запись файла ADIF...
+ QSO: </translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="786"/>
         <location filename="../filemanager.cpp" line="993"/>
         <source>KLog - File not opened</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog - Файл не открыт</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="787"/>
