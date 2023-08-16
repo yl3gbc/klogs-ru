@@ -991,103 +991,104 @@ Do you want to try again?</source>
         <location filename="../filemanager.cpp" line="787"/>
         <location filename="../filemanager.cpp" line="994"/>
         <source>It was not possible to open the file %1 for reading.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось открыть файл %1 для чтения.</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="788"/>
         <location filename="../filemanager.cpp" line="995"/>
         <source>KLog was not able to read the LoTW file</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog не смог прочитать файл LoTW</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="823"/>
         <source>Processing LoTW ADIF file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Обработка файла LoTW ADIF...</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="823"/>
         <source>Abort processing</source>
-        <translation type="unfinished"></translation>
+        <translation>Прервать обработку</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="827"/>
         <source>LoTW reading</source>
-        <translation type="unfinished"></translation>
+        <translation>Чтение LoTW</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="871"/>
         <location filename="../filemanager.cpp" line="1771"/>
         <source>KLog - Add new QSOs?</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog - Добавить новые QSO?</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="872"/>
         <source>Do you want to add non existing QSOs to your local log?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы хотите добавить несуществующие QSO в свой локальный журнал?</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="874"/>
         <source>There are some QSOs in the LoTW log that are not in your local log.</source>
-        <translation type="unfinished"></translation>
+        <translation>В журнале LoTW есть несколько QSO, которых нет в вашем локальном журнале.</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="933"/>
         <source>Processing LoTW ADIF file......
  QSO: %1 / %2 </source>
-        <translation type="unfinished"></translation>
+        <translation>Обработка файла LoTW ADIF......
+ QSO: %1 / %2 </translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="943"/>
         <source>You have canceled the LoTW processing. The process will be stopped and your log may not be completely updated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы отменили обработку LoTW. Процесс будет остановлен, и ваш журнал может быть обновлен не полностью.</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="1044"/>
         <source>Reading LoTW file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Чтение файла LoTW...</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="1044"/>
         <location filename="../filemanager.cpp" line="1597"/>
         <source>Abort reading</source>
-        <translation type="unfinished"></translation>
+        <translation>Прервать чтение</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="1448"/>
         <source>Importing LoTW ADIF file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Импорт файла LoTW ADIF...</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="1448"/>
         <location filename="../filemanager.cpp" line="1851"/>
         <source> QSO: </source>
-        <translation type="unfinished"></translation>
+        <translation> QSO: </translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="1467"/>
         <location filename="../filemanager.cpp" line="1954"/>
         <source>You have canceled the file import. The file will be removed and no data will be imported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы отменили импорт файла. Файл будет удален, и никакие данные не будут импортированы.</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="1551"/>
         <source>KLog - Log selection</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog — выбор журнала</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="1552"/>
         <source>There is more than one log in this logfile.</source>
-        <translation type="unfinished"></translation>
+        <translation>В этом файле журнала содержится более одного журнала.</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="1552"/>
         <source>All logs will be imported into the current log.</source>
-        <translation type="unfinished"></translation>
+        <translation>Все журналы будут импортированы в текущий журнал.</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="1552"/>
         <source>Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы хотите продолжать?</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="1597"/>
@@ -1702,7 +1703,7 @@ Error returned: %2</source>
     <message>
         <location filename="../logmodel.cpp" line="108"/>
         <source>Call</source>
-        <translation type="unfinished"></translation>
+        <translation>Позывной</translation>
     </message>
     <message>
         <location filename="../logmodel.cpp" line="111"/>
@@ -1934,12 +1935,12 @@ Error returned: %2</source>
     <message>
         <location filename="../mainqsoentrywidget.cpp" line="36"/>
         <source>Callsign of the QSO.</source>
-        <translation type="unfinished"></translation>
+        <translation>Позывной QSO.</translation>
     </message>
     <message>
         <location filename="../mainqsoentrywidget.cpp" line="37"/>
         <source>Band of the QSO.</source>
-        <translation type="unfinished"></translation>
+        <translation>Группа QSO.</translation>
     </message>
     <message>
         <location filename="../mainqsoentrywidget.cpp" line="38"/>
@@ -1949,7 +1950,7 @@ Error returned: %2</source>
     <message>
         <location filename="../mainqsoentrywidget.cpp" line="39"/>
         <source>Date of the QSO.</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата QSO.</translation>
     </message>
     <message>
         <location filename="../mainqsoentrywidget.cpp" line="40"/>
@@ -6737,27 +6738,27 @@ The log will not be opened.</source>
     <message>
         <location filename="../softwareupdatedialog.cpp" line="17"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>Хорошо</translation>
     </message>
     <message>
         <location filename="../softwareupdatedialog.cpp" line="35"/>
         <source>KLog update</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновление KLog</translation>
     </message>
     <message>
         <location filename="../softwareupdatedialog.cpp" line="53"/>
         <source>Congratulations!</source>
-        <translation type="unfinished"></translation>
+        <translation>Поздравляем!</translation>
     </message>
     <message>
         <location filename="../softwareupdatedialog.cpp" line="53"/>
         <source>Your KLog has been updated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваш KLog обновлен.</translation>
     </message>
     <message>
         <location filename="../softwareupdatedialog.cpp" line="53"/>
         <source>You already have the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation>У вас уже есть последняя версия.</translation>
     </message>
 </context>
 <context>
@@ -6856,37 +6857,37 @@ The log will not be opened.</source>
     <message>
         <location filename="../charts/statscqzperyearbarchartwidget.cpp" line="46"/>
         <source>CQ Zones per year</source>
-        <translation type="unfinished"></translation>
+        <translation>Зон CQ в год</translation>
     </message>
     <message>
         <location filename="../charts/statscqzperyearbarchartwidget.cpp" line="50"/>
         <source>Reading data ... </source>
-        <translation type="unfinished"></translation>
+        <translation>Чтение данных ... </translation>
     </message>
     <message>
         <location filename="../charts/statscqzperyearbarchartwidget.cpp" line="50"/>
         <source>Abort reading</source>
-        <translation type="unfinished"></translation>
+        <translation>Прервать чтение</translation>
     </message>
     <message>
         <location filename="../charts/statscqzperyearbarchartwidget.cpp" line="55"/>
         <source>CQ zones</source>
-        <translation type="unfinished"></translation>
+        <translation>CQ-зоны</translation>
     </message>
     <message>
         <location filename="../charts/statscqzperyearbarchartwidget.cpp" line="56"/>
         <source>CQ zones per year</source>
-        <translation type="unfinished"></translation>
+        <translation>Зоны CQ в год</translation>
     </message>
     <message>
         <location filename="../charts/statscqzperyearbarchartwidget.cpp" line="68"/>
         <source>Reading data ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Чтение данных ...</translation>
     </message>
     <message>
         <location filename="../charts/statscqzperyearbarchartwidget.cpp" line="68"/>
         <source>Years: %1/%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Годы: %1/%2</translation>
     </message>
 </context>
 <context>
