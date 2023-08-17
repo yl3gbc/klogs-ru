@@ -1508,27 +1508,27 @@ Do you want KLog to add this QSO to the log?</source>
     <message>
         <location filename="../lotwutilities.cpp" line="32"/>
         <source>Double click on the date that you want to use as the start date for downloading QSOs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Дважды щелкните дату, которую вы хотите использовать в качестве даты начала загрузки QSO.</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="77"/>
         <source>KLog - LoTW password needed</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog - требуется пароль LoTW</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="78"/>
         <source>Please enter your LoTW password: </source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста, введите свой пароль LoTW: </translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="150"/>
         <source>KLog - LoTW Station callsign</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog — позывной станции LoTW</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="151"/>
         <source>There is not a single QSO in the log with that station callsign.</source>
-        <translation type="unfinished"></translation>
+        <translation>В логе нет ни одного QSO с этим позывным станции.</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="152"/>
