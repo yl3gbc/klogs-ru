@@ -1533,25 +1533,25 @@ Do you want KLog to add this QSO to the log?</source>
     <message>
         <location filename="../lotwutilities.cpp" line="152"/>
         <source>Are you sure that you want to use that station callsign (%1)?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы уверены, что хотите использовать позывной этой станции (%1)?</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="212"/>
         <location filename="../lotwutilities.cpp" line="341"/>
         <source>KLog - LoTW File already exists</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog — файл LoTW уже существует</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="213"/>
         <location filename="../lotwutilities.cpp" line="342"/>
         <source>There is a file already existing with the name that will be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Уже существует файл с именем, которое будет использоваться</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="214"/>
         <location filename="../lotwutilities.cpp" line="343"/>
         <source>The file %1 already exist. Do you want to overwrite?</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл %1 уже существует. Вы хотите перезаписать?</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="239"/>
@@ -1789,14 +1789,14 @@ Error returned: %2</source>
     <message>
         <location filename="../logwindow.cpp" line="335"/>
         <source>Send this QSL via direct</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправьте эту QSL через direc</translation>
     </message>
     <message>
         <location filename="../logwindow.cpp" line="338"/>
         <location filename="../logwindow.cpp" line="384"/>
         <location filename="../logwindow.cpp" line="392"/>
         <source>Via bureau</source>
-        <translation type="unfinished"></translation>
+        <translation>Через бюро</translation>
     </message>
     <message>
         <location filename="../logwindow.cpp" line="340"/>
@@ -1808,7 +1808,7 @@ Error returned: %2</source>
         <location filename="../logwindow.cpp" line="388"/>
         <location filename="../logwindow.cpp" line="396"/>
         <source>Direct</source>
-        <translation type="unfinished"></translation>
+        <translation>Прямой</translation>
     </message>
     <message>
         <location filename="../logwindow.cpp" line="345"/>
@@ -1818,22 +1818,22 @@ Error returned: %2</source>
     <message>
         <location filename="../logwindow.cpp" line="348"/>
         <source>Check in QRZ.com</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверьте на QRZ.com</translation>
     </message>
     <message>
         <location filename="../logwindow.cpp" line="350"/>
         <source>Check this callsign in QRZ.com</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверьте этот позывной на QRZ.com</translation>
     </message>
     <message>
         <location filename="../logwindow.cpp" line="353"/>
         <source>Check in DXHeat.com</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверьте на DXHeat.com</translation>
     </message>
     <message>
         <location filename="../logwindow.cpp" line="355"/>
         <source>Check this callsign in DXHeat.com</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверьте этот позывной на DXHeat.com</translation>
     </message>
     <message>
         <location filename="../logwindow.cpp" line="358"/>
