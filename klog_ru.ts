@@ -1093,204 +1093,212 @@ Do you want to try again?</source>
     <message>
         <location filename="../filemanager.cpp" line="1597"/>
         <source>Reading ADIF file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Чтение файла ADIF...</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="1772"/>
         <source>Do you want to add dupe QSOs to your local log?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы хотите добавить повторные QSO в свой локальный журнал?</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="1774"/>
         <source>There are some QSOs in this logfile that may be dupes as they have same call, band &amp; mode and a very close date.</source>
-        <translation type="unfinished"></translation>
+        <translation>В этом лог-файле есть несколько QSO, которые могут быть дубликатами, поскольку у них один и тот же позывной, диапазон и режим и очень близкая дата.</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="1851"/>
         <source>Importing ADIF file...</source>
-        <translation type="unfinished"></translation>
+        <translation>Импорт файла ADIF...</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="1878"/>
         <source>KLog - Duplicated QSOs</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog - Дублированные QSO</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="1879"/>
         <source>It seems that there are some duplicated QSOs in the ADIF file you are importing. Do you want to continue? (Duped QSOs will not be imported)</source>
-        <translation type="unfinished"></translation>
+        <translation>Похоже, что в импортируемом файле ADIF есть несколько дублированных QSO. Вы хотите продолжать? (Поддельные QSO не будут импортированы)</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="3084"/>
         <source>This QSO is not including the minimum data to consider a QSO as valid!</source>
-        <translation type="unfinished"></translation>
+        <translation>Это QSO не включает минимальные данные, чтобы считать QSO действительным!</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="3084"/>
         <source>Please edit the ADIF file and make sure that it include at least:</source>
-        <translation type="unfinished"></translation>
+        <translation>Please edit the ADIF file and make sure that it include at least:</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="3084"/>
         <source>and</source>
-        <translation type="unfinished"></translation>
+        <translation>и</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="3084"/>
         <source>This QSO had:</source>
-        <translation type="unfinished"></translation>
+        <translation>Это QSO было:</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="3088"/>
         <source> - The band missing and the following call: </source>
-        <translation type="unfinished"></translation>
+        <translation> - Отсутствует полоса и следующий звонок: </translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="3093"/>
         <source> - The mode missing and the following call: </source>
-        <translation type="unfinished"></translation>
+        <translation> - Режим отсутствует и следующий вызов: </translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="3097"/>
         <source> - The date missing and the following call: </source>
-        <translation type="unfinished"></translation>
+        <translation> - Дата отсутствует и следующий вызов: </translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="3101"/>
         <source> - The time missing and the following call: </source>
-        <translation type="unfinished"></translation>
+        <translation> - Время отсутствует и следующий звонок: </translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="3105"/>
         <source>Do you want to continue with the current file?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы хотите продолжить работу с текущим файлом?</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="3109"/>
         <source>KLog: Not all required data found!</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog: Не все необходимые данные найдены!</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="3136"/>
         <source>Some QSOs of this log, (i.e.: %1) seems to lack RST-TX information.</source>
-        <translation type="unfinished"></translation>
+        <translation>В некоторых QSO этого лога (например: %1) отсутствует информация RST-TX.</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="3136"/>
         <location filename="../filemanager.cpp" line="3161"/>
         <source>Click on Yes to add a default %1 for mode %2 to all QSOs with a similar problem.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите Да, чтобы добавить %1 по умолчанию для режима %2 ко всем QSO с похожей проблемой.</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="3136"/>
         <location filename="../filemanager.cpp" line="3161"/>
         <source>If you select NO, maybe the QSO will not be imported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Если вы выберете НЕТ, возможно, QSO не будет импортировано.</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="3137"/>
         <source>KLog: No RST TX found!</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog: RST TX не найден!</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="3161"/>
         <source>Some QSOs of this log, (i.e.: %1) seems to lack RST-RX information.</source>
-        <translation type="unfinished"></translation>
+        <translation>В некоторых QSO этого журнала (например: %1) отсутствует информация RST-RX.</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="3163"/>
         <source>KLog: No RST RX found!</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog: RST RX не найден!</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="3204"/>
         <location filename="../filemanager.cpp" line="3215"/>
         <source>KLog - No Station callsign entered.</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog - Позывной станции не введен.</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="3231"/>
         <source>KLog - Apply to all QSOs in this log?</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog - Применить ко всем QSO в этом логе?</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="3294"/>
         <source>KLog has found one QSO without the Station Callsign defined.
 
 Enter the Station Callsign that was used to do this QSO with %1 on %2:</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog обнаружил одно QSO без определенного позывного станции.
+
+Введите позывной станции, которая использовалась для проведения этого QSO с %1 на %2:</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="3295"/>
         <location filename="../filemanager.cpp" line="3300"/>
         <source>KLog - QSO without Station Callsign</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog - QSO без позывного станции</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="3301"/>
         <source>KLog has found one QSO without the Station Callsign defined.
 
 Enter the Station Callsign that was used to do this QSO on %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog обнаружил одно QSO без определенного позывного станции.
+
+Введите позывной станции, которая использовалась для проведения этого QSO на %1:</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="3789"/>
         <source>KLog - Don&apos;t ask again</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog - больше не спрашивать</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="3791"/>
         <source>Do you want to reuse your answer?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы хотите повторно использовать свой ответ?</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="3792"/>
         <source>KLog will use automatically your previous answer for any other similar ocurrence, if any, without asking you again.</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog будет автоматически использовать ваш предыдущий ответ для любого другого подобного случая, если таковой имеется, не спрашивая вас снова.</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="3814"/>
         <source>&lt;ul&gt;&lt;li&gt;Date/Time:&lt;/i&gt; %1&lt;/li&gt;&lt;li&gt;Callsign: %2&lt;/li&gt;&lt;li&gt;Band: %3&lt;/li&gt;&lt;li&gt;Mode: %4&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;ul&gt;&lt;li&gt;Дата/время:&lt;/i&gt; %1&lt;/li&gt;&lt;li&gt;Позывной: %2&lt;/li&gt;&lt;li&gt;Диапазон: %3&lt;/li&gt;&lt;li&gt;Режим: %4&lt; /ли&gt;&lt;/ул&gt;</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="3818"/>
         <source>KLog - QSO not found</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog - QSO не найдено</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="3820"/>
         <source>Do you want to add this QSO to the log?:
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Вы хотите добавить это QSO в лог?:
+
+</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="3821"/>
         <source>We have found a QSO coming from LoTW that is not in your local log.
 
 Do you want KLog to add this QSO to the log?</source>
-        <translation type="unfinished"></translation>
+        <translation>Мы обнаружили QSO из LoTW, которого нет в вашем локальном журнале.
+
+Вы хотите, чтобы KLog добавил это QSO в лог?</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="3844"/>
         <source>KLog - Invalid call detected</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog — Обнаружен недействительный вызов</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="3850"/>
         <source>An empty callsign has been detected. Do you want to export this QSO anyway (click on Yes) or remove the field from the exported log file?</source>
-        <translation type="unfinished"></translation>
+        <translation>Обнаружен пустой позывной. Вы все равно хотите экспортировать это QSO (нажмите «Да») или удалить это поле из экспортируемого лог-файла?</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="3855"/>
         <source>An invalid callsign has been detected %1. Do you want to export this callsign anyway (click on Yes) or remove the call from the exported log file?</source>
-        <translation type="unfinished"></translation>
+        <translation>Обнаружен неверный позывной %1. Вы все равно хотите экспортировать этот позывной (нажмите «Да») или удалить позывной из экспортированного лог-файла?</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="3859"/>
         <source>Exporting wrong calls may create problems in the applications you are potentially importing this logfile to. It may, however, be a good callsign that is wrongly identified by KLog as not valid. You can, however, edit the ADIF file once the export process is finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспорт неправильных вызовов может создать проблемы в приложениях, в которые вы потенциально импортируете этот файл журнала. Однако это может быть хороший позывной, который KLog ошибочно идентифицирует как недействительный. Однако вы можете отредактировать файл ADIF после завершения процесса экспорта.</translation>
     </message>
 </context>
 <context>
@@ -1298,110 +1306,110 @@ Do you want KLog to add this QSO to the log?</source>
     <message>
         <location filename="../infowidget.cpp" line="48"/>
         <source>10M</source>
-        <translation type="unfinished"></translation>
+        <translation>10M</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="49"/>
         <source>15M</source>
-        <translation type="unfinished"></translation>
+        <translation>15M</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="50"/>
         <source>20M</source>
-        <translation type="unfinished"></translation>
+        <translation>20M</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="51"/>
         <source>40M</source>
-        <translation type="unfinished"></translation>
+        <translation>40M</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="52"/>
         <source>80M</source>
-        <translation type="unfinished"></translation>
+        <translation>80M</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="53"/>
         <source>160M</source>
-        <translation type="unfinished"></translation>
+        <translation>160M</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="54"/>
         <source>2M</source>
-        <translation type="unfinished"></translation>
+        <translation>2M</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="55"/>
         <source>6M</source>
-        <translation type="unfinished"></translation>
+        <translation>6M</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="56"/>
         <source>12M</source>
-        <translation type="unfinished"></translation>
+        <translation>12M</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="57"/>
         <source>17M</source>
-        <translation type="unfinished"></translation>
+        <translation>17M</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="58"/>
         <source>30M</source>
-        <translation type="unfinished"></translation>
+        <translation>30M</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="59"/>
         <source>70CM</source>
-        <translation type="unfinished"></translation>
+        <translation>70CM</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="74"/>
         <source>Continent</source>
-        <translation type="unfinished"></translation>
+        <translation>Континент</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="78"/>
         <source>Prefix</source>
-        <translation type="unfinished"></translation>
+        <translation>Префикс</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="82"/>
         <source>CQ</source>
-        <translation type="unfinished"></translation>
+        <translation>CQ</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="86"/>
         <source>ITU</source>
-        <translation type="unfinished"></translation>
+        <translation>ITU</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="90"/>
         <source>Short Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Короткий путь</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="93"/>
         <source>Long Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Долгий путь</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="96"/>
         <location filename="../infowidget.cpp" line="101"/>
         <source>Deg</source>
-        <translation type="unfinished"></translation>
+        <translation>градус</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="326"/>
         <location filename="../infowidget.cpp" line="327"/>
         <source>Miles</source>
-        <translation type="unfinished"></translation>
+        <translation>Мили</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="333"/>
         <location filename="../infowidget.cpp" line="334"/>
         <source>Km</source>
-        <translation type="unfinished"></translation>
+        <translation>Km</translation>
     </message>
 </context>
 <context>
@@ -1741,7 +1749,7 @@ Error returned: %2</source>
     <message>
         <location filename="../logwindow.cpp" line="270"/>
         <source>QSL Rcvd</source>
-        <translation type="unfinished"></translation>
+        <translation>QSL Rcvd</translation>
     </message>
     <message>
         <location filename="../logwindow.cpp" line="318"/>
@@ -1751,7 +1759,7 @@ Error returned: %2</source>
     <message>
         <location filename="../logwindow.cpp" line="320"/>
         <source>Delete a QSO</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить QSO</translation>
     </message>
     <message>
         <location filename="../logwindow.cpp" line="323"/>
@@ -1761,7 +1769,7 @@ Error returned: %2</source>
     <message>
         <location filename="../logwindow.cpp" line="325"/>
         <source>Edit this QSO</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактировать это QSO</translation>
     </message>
     <message>
         <location filename="../logwindow.cpp" line="328"/>
