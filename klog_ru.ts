@@ -2010,28 +2010,28 @@ Error returned: %2</source>
     <message>
         <location filename="../mainwindow.cpp" line="67"/>
         <source>KLog - File not open</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog - Файл не открыт</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="68"/>
         <source>It was not possible to open the debug file for writing. No debug log will be saved!</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось открыть отладочный файл для записи. Журнал отладки не будет сохранен!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="115"/>
         <source>Status bar ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Статус бар ...</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="116"/>
         <location filename="../mainwindow.cpp" line="185"/>
         <source>DX Entity</source>
-        <translation type="unfinished"></translation>
+        <translation>DX-сущность</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="142"/>
         <source>Starting KLog</source>
-        <translation type="unfinished"></translation>
+        <translation>Запуск KLog</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="186"/>
@@ -2041,24 +2041,25 @@ Error returned: %2</source>
     <message>
         <location filename="../mainwindow.cpp" line="216"/>
         <source>Upload the queued QSOs to LoTW</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузить поставленные в очередь QSO в LoTW</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="384"/>
         <source>Watts</source>
-        <translation type="unfinished"></translation>
+        <translation>Вт</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="388"/>
         <location filename="../mainwindow.cpp" line="392"/>
         <source>MHz</source>
-        <translation type="unfinished"></translation>
+        <translation>МГц</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="394"/>
         <source>Split</source>
         <comment>Translator: Split is a common hamradio term. Do not translate unless you are sure.</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Переводчик: «Сплит» — это общепринятый термин для радиолюбителей. Не переводите, если не уверены.</translatorcomment>
+        <translation>Расколоть</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="417"/>
