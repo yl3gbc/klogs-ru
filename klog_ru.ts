@@ -2064,37 +2064,37 @@ Error returned: %2</source>
     <message>
         <location filename="../mainwindow.cpp" line="417"/>
         <source>KLog CTY.dat update</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновление KLog CTY.dat</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="418"/>
         <source>KLog needs to update the Entities database.</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog необходимо обновить базу данных сущностей.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="419"/>
         <source>You can update the entities database in Tools-&gt;Update cty.csv</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы можете обновить базу данных сущностей в Tools-&gt;Update cty.csv</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="420"/>
         <source>Do you want to do it now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы хотите сделать это сейчас?</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="682"/>
         <source>It seems that you have never done a backup or exported your log to ADIF.</source>
-        <translation type="unfinished"></translation>
+        <translation>Похоже, вы никогда не делали резервную копию и не экспортировали журнал в ADIF.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="688"/>
         <source>It seems that the latest backup you did is older than one month.</source>
-        <translation type="unfinished"></translation>
+        <translation>Кажется, что последняя резервная копия, которую вы сделали, старше одного месяца.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="699"/>
         <source>Log backup recommended!</source>
-        <translation type="unfinished"></translation>
+        <translation>Рекомендуется резервное копирование журнала!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="702"/>
@@ -2104,144 +2104,148 @@ Once you export your log to an ADIF file, you should copy that file to a safe pl
 KLog will remind you to backup on a monthly basis.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Хорошей практикой является регулярное резервное копирование полного журнала, чтобы избежать потери данных в случае возникновения проблемы.
+
+После того, как вы экспортируете свой журнал в файл ADIF, вы должны скопировать этот файл в безопасное место, например на USB-накопитель, облачный диск, другой компьютер и т. д.
+
+KLog ежемесячно будет напоминать вам о резервном копировании.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="717"/>
         <source>KLog backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Резервное копирование KLog</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="721"/>
         <source>The backup was done successfully</source>
-        <translation type="unfinished"></translation>
+        <translation>Резервное копирование было сделано успешно</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="722"/>
         <source>KLog will remind you to backup your data again in aprox one month.</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog напомнит вам снова сделать резервную копию ваших данных примерно через месяц.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="728"/>
         <source>The backup was not properly done.</source>
-        <translation type="unfinished"></translation>
+        <translation>Резервное копирование не было сделано должным образом.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="729"/>
         <source>It is recommended to backup your data periodically to prevent lose or corruption of your log.</source>
-        <translation type="unfinished"></translation>
+        <translation>Рекомендуется периодически делать резервную копию ваших данных, чтобы предотвратить потерю или повреждение вашего журнала.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="746"/>
         <source>KLog new version detected!</source>
-        <translation type="unfinished"></translation>
+        <translation>Обнаружена новая версия KLog!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="747"/>
         <source>It seems that you are running this version of KLog for the first time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Похоже, вы запускаете эту версию KLog впервые.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="748"/>
         <source>The setup will be open to allow you to do any new setup you may need.</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройка будет открыта, чтобы вы могли выполнить любую новую настройку, которая может вам понадобиться.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="771"/>
         <source>Ready</source>
-        <translation type="unfinished"></translation>
+        <translation>Готовый</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="789"/>
         <source>KLog - %1 - QSOs: %2 - %3</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog - %1 - QSO: %2 - %3</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="793"/>
         <source>KLog - %1 - QSOs: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog - %1 - QSO: %2</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="805"/>
         <location filename="../mainwindow.cpp" line="4713"/>
         <source>KLog</source>
-        <translation type="unfinished"></translation>
+        <translation>Клог</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="966"/>
         <source>KLog - Unexpected error</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog — непредвиденная ошибка</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="968"/>
         <source>An unexpected error ocurred when trying to add the QSO to your log. If the problem persists, please contact the developer for analysis: </source>
-        <translation type="unfinished"></translation>
+        <translation>Произошла непредвиденная ошибка при попытке добавить QSO в ваш лог. Если проблема не устранена, обратитесь к разработчику для анализа: </translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="1116"/>
         <source>KLog - Not valid call</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog - Недействительный вызов</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="1117"/>
         <source>The callsign %1 is not a valid call. Do you really want to add this callsign to the log?</source>
-        <translation type="unfinished"></translation>
+        <translation>Позывной %1 недействителен. Вы действительно хотите добавить этот позывной в журнал?</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="1119"/>
         <location filename="../mainwindow.cpp" line="1843"/>
         <source>Adding non-valid calls to the log may create problems when applying for awards, exporting ADIF files to other systems or applications.</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавление недействительных вызовов в журнал может создать проблемы при подаче заявок на награды, экспорте файлов ADIF в другие системы или приложения.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="1178"/>
         <location filename="../mainwindow.cpp" line="1937"/>
         <source>KLog - Select correct entity</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog — выберите правильный объект</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="1179"/>
         <location filename="../mainwindow.cpp" line="1938"/>
         <source>You have selected an entity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы выбрали объект:</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="1179"/>
         <location filename="../mainwindow.cpp" line="1938"/>
         <source>that is different from the KLog proposed entity:</source>
-        <translation type="unfinished"></translation>
+        <translation>который отличается от предлагаемого объекта KLog:</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="1180"/>
         <source>Click on the prefix of the correct entity or Cancel to edit the QSO again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите на префикс нужного объекта или нажмите «Отмена», чтобы снова отредактировать QSO.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="1840"/>
         <source>KLog - Not valid callsign</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog - Недействительный позывной</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="1841"/>
         <source>The callsign %1 is not a valid callsign. Do you really want to add this callsign to the log?</source>
-        <translation type="unfinished"></translation>
+        <translation>Позывной %1 не является допустимым позывным. Вы действительно хотите добавить этот позывной в журнал?</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="1908"/>
         <location filename="../mainwindow.cpp" line="1921"/>
         <source>No DXCC</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет DXCC</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="1909"/>
         <location filename="../mainwindow.cpp" line="1922"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Никто</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="1939"/>
         <source>Click on the prefix of the right entity or Cancel to correct.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите на префикс нужного объекта или Отмена, чтобы исправить.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="2649"/>
@@ -2249,43 +2253,43 @@ KLog will remind you to backup on a monthly basis.
         <location filename="../mainwindow.cpp" line="6197"/>
         <location filename="../mainwindow.cpp" line="6704"/>
         <source>Save ADIF File</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить файл ADIF</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="2681"/>
         <source>You have requested to delete several QSOs </source>
-        <translation type="unfinished"></translation>
+        <translation>Вы запросили удаление нескольких QSO </translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="2685"/>
         <source>This operation shall remove definitely all the selected QSO and associated data and you will not be able to recover it again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Эта операция обязательно удалит все выбранные QSO и связанные с ними данные, и вы не сможете восстановить их снова.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="2686"/>
         <location filename="../mainwindow.cpp" line="2741"/>
         <source>Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы уверены?</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="2736"/>
         <source>You have requested to delete the QSO with: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы запросили удаление QSO с: %1</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="2842"/>
         <source>KLog ClubLog error</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка KLog ClubLog</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="2843"/>
         <source>The ClubLog upload process has finished with an error and the log was possibly not uploaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Процесс загрузки ClubLog завершился с ошибкой, возможно, журнал не был загружен.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="2844"/>
         <source>Please check your credentials, your Internet connection and your Clublog account. The received error code was: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверьте свои учетные данные, подключение к Интернету и учетную запись Clublog. Получен код ошибки: %1</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="2863"/>
@@ -2294,67 +2298,70 @@ KLog will remind you to backup on a monthly basis.
         <location filename="../mainwindow.cpp" line="2909"/>
         <location filename="../mainwindow.cpp" line="6556"/>
         <source>KLog ClubLog</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog ClubLog</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="2864"/>
         <source>Do you want to mark as Uploaded all the QSOs uploaded to ClubLog?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы хотите пометить как загруженные все QSO, загруженные в ClubLog?</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="2878"/>
         <location filename="../mainwindow.cpp" line="6319"/>
         <location filename="../mainwindow.cpp" line="6345"/>
         <source>KLog - ClubLog</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog - Клублог</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="2880"/>
         <source>There was an error while updating to Yes the ClubLog QSO upload information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Произошла ошибка при обновлении на «Да» информации о загрузке QSO ClubLog.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="2890"/>
         <source>The ClubLog upload process has finished and KLog created a file (%1) in your KLog folder.
 
 Do you want KLog to remove that file?</source>
-        <translation type="unfinished"></translation>
+        <translation>Процесс загрузки ClubLog завершен, и KLog создал файл (%1) в вашей папке KLog.
+
+Вы хотите, чтобы KLog удалил этот файл?</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="2900"/>
         <location filename="../mainwindow.cpp" line="3019"/>
         <location filename="../mainwindow.cpp" line="6297"/>
         <source>The file has been removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл был удален.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="2910"/>
         <location filename="../mainwindow.cpp" line="3029"/>
         <source>The file has not been removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл не удален.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="2911"/>
         <location filename="../mainwindow.cpp" line="3030"/>
         <source>It seems that there was something that prevented KLog from removing the file
 You can remove it manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>Похоже, что-то мешало KLog удалить файл
+Вы можете удалить его вручную.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="2961"/>
         <source>KLog eQSL error</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка eQSL KLog</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="2962"/>
         <source>The eQSL upload process has finished with an error and the log was possibly not uploaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Процесс загрузки eQSL завершился с ошибкой, и журнал, возможно, не был загружен.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="2963"/>
         <location filename="../mainwindow.cpp" line="3058"/>
         <source>Please check your credentials, your Internet connection and your eQSL account. The received error code was: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверьте свои учетные данные, подключение к Интернету и учетную запись eQSL. Получен код ошибки: %1</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="2981"/>
@@ -2363,133 +2370,135 @@ You can remove it manually.</source>
         <location filename="../mainwindow.cpp" line="3028"/>
         <location filename="../mainwindow.cpp" line="6587"/>
         <source>KLog eQSL</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog eQSL</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="2982"/>
         <source>Do you want to mark as Uploaded all the QSOs uploaded to eQSL?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы хотите пометить как загруженные все QSO, загруженные в eQSL?</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="2996"/>
         <location filename="../mainwindow.cpp" line="6381"/>
         <source>KLog - eQSL</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog - eQSL</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="2998"/>
         <source>There was an error while updating to Yes the eQSL QSO upload information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Произошла ошибка при обновлении на «Да» информации о загрузке QSO eQSL.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3009"/>
         <source>The eQSL upload process has finished and KLog created a file (%1) in your KLog folder.
 
 Do you want KLog to remove that file?</source>
-        <translation type="unfinished"></translation>
+        <translation>Процесс загрузки eQSL завершен, и KLog создал файл (%1) в вашей папке KLog.
+
+Вы хотите, чтобы KLog удалил этот файл?</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3056"/>
         <source>KLog QRZ.com error</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog Ошибка QRZ.com</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3057"/>
         <source>The QRZ.com upload process has finished with an error and the log was possibly not uploaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Процесс загрузки QRZ.com завершился с ошибкой, и журнал, возможно, не был загружен.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3076"/>
         <location filename="../mainwindow.cpp" line="3103"/>
         <location filename="../mainwindow.cpp" line="6689"/>
         <source>KLog QRZ.com</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog QRZ.com</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3077"/>
         <source>Do you want to mark as Uploaded all the QSOs uploaded to QRZ.com?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы хотите пометить как загруженные все QSO, загруженные на QRZ.com?</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3092"/>
         <source>KLog - QRZ.com</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog - QRZ.com</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3094"/>
         <source>There was an error while updating to Yes the QRZ.com QSO upload information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Произошла ошибка при обновлении информации о загрузке QRZ.com QSO на «Да».</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3104"/>
         <source>The QRZ.com upload process has finished successfully</source>
-        <translation type="unfinished"></translation>
+        <translation>Процесс загрузки QRZ.com успешно завершен</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3174"/>
         <source>Call not found in QRZ.com</source>
-        <translation type="unfinished"></translation>
+        <translation>Вызов не найден на QRZ.com</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3179"/>
         <source>KLog - QRZ.com error</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog - ошибка QRZ.com</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3180"/>
         <source>KLog has received an error from QRZ.com.</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog получил сообщение об ошибке от QRZ.com.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3213"/>
         <source>KLog %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Клог %1</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3214"/>
         <source>You need to activate the %1 service in the eLog preferences.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вам необходимо активировать службу %1 в настройках eLog.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3273"/>
         <source>KLog - Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Клог - Выход</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3274"/>
         <source>Do you really want to exit KLog?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы действительно хотите выйти из KLog?</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3666"/>
         <source>The logfile has been modified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Лог-файл был изменен.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3666"/>
         <source>Do you want to save your changes?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы хотите сохранить изменения?</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3686"/>
         <location filename="../mainwindow.cpp" line="6162"/>
         <source>KLog ADIF export</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспорт KLog ADIF</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3687"/>
         <source>It is important to export to ADIF and save a copy as a backup.</source>
-        <translation type="unfinished"></translation>
+        <translation>Важно экспортировать в ADIF и сохранить копию в качестве резервной копии.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3691"/>
         <source>Saving the log was done successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранение журнала выполнено успешно.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3699"/>
         <source>The ADIF export was not properly done.</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспорт ADIF был выполнен неправильно.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3745"/>
@@ -2504,27 +2513,27 @@ Do you want KLog to remove that file?</source>
     <message>
         <location filename="../mainwindow.cpp" line="3759"/>
         <source>Import an ADIF file into the current log.</source>
-        <translation type="unfinished"></translation>
+        <translation>Импортируйте файл ADIF в текущий журнал.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3776"/>
         <source>Export to ADIF ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспорт в ADIF...</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3780"/>
         <source>Export the current log to an ADIF logfile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспортируйте текущий журнал в файл журнала ADIF.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3782"/>
         <source>Export all logs to ADIF ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспортировать все журналы в ADIF...</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3786"/>
         <source>Export ALL the QSOs into one ADIF file, merging QSOs from all the logs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспортируйте ВСЕ QSO в один файл ADIF, объединив QSO из всех журналов.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3800"/>
@@ -2534,7 +2543,7 @@ Do you want KLog to remove that file?</source>
     <message>
         <location filename="../mainwindow.cpp" line="3803"/>
         <source>Print your log.</source>
-        <translation type="unfinished"></translation>
+        <translation>Распечатайте свой журнал.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3808"/>
