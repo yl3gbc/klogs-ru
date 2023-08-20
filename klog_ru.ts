@@ -485,7 +485,7 @@ Do you want to try again?</source>
     <message>
         <location filename="../dxcluster.cpp" line="74"/>
         <source>Click on Connect to connect to the DX-Cluster server</source>
-        <translation>Нажмите «Подключиться», чтобы подключиться к серверу DX-Cluster.</translation>
+        <translation>Нажмите Подключиться , чтобы подключиться к серверу DX-Cluster.</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="78"/>
@@ -504,7 +504,7 @@ Do you want to try again?</source>
     <message>
         <location filename="../dxcluster.cpp" line="156"/>
         <source>Click on connect to connect to the DX-Cluster</source>
-        <translation>Нажмите «Подключиться», чтобы подключиться к DX-кластеру.</translation>
+        <translation>Нажмите Подключиться, чтобы подключиться к DX-кластеру.</translation>
     </message>
     <message>
         <location filename="../dxcluster.cpp" line="216"/>
@@ -1533,25 +1533,25 @@ Do you want KLog to add this QSO to the log?</source>
     <message>
         <location filename="../lotwutilities.cpp" line="152"/>
         <source>Are you sure that you want to use that station callsign (%1)?</source>
-        <translation>Вы уверены, что хотите использовать позывной этой станции (%1)?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="212"/>
         <location filename="../lotwutilities.cpp" line="341"/>
         <source>KLog - LoTW File already exists</source>
-        <translation>KLog — файл LoTW уже существует</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="213"/>
         <location filename="../lotwutilities.cpp" line="342"/>
         <source>There is a file already existing with the name that will be used.</source>
-        <translation>Уже существует файл с именем, которое будет использоваться</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="214"/>
         <location filename="../lotwutilities.cpp" line="343"/>
         <source>The file %1 already exist. Do you want to overwrite?</source>
-        <translation>Файл %1 уже существует. Вы хотите перезаписать?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="239"/>
@@ -1779,7 +1779,7 @@ Error returned: %2</source>
     <message>
         <location filename="../logwindow.cpp" line="330"/>
         <source>Send this QSL via bureau</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправьте эту QSL через бюро</translation>
     </message>
     <message>
         <location filename="../logwindow.cpp" line="333"/>
@@ -1789,7 +1789,7 @@ Error returned: %2</source>
     <message>
         <location filename="../logwindow.cpp" line="335"/>
         <source>Send this QSL via direct</source>
-        <translation>Отправьте эту QSL через direc</translation>
+        <translation>Отправьте эту QSL через direct</translation>
     </message>
     <message>
         <location filename="../logwindow.cpp" line="338"/>
@@ -1838,67 +1838,67 @@ Error returned: %2</source>
     <message>
         <location filename="../logwindow.cpp" line="358"/>
         <source>Delete selected QSOs</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить выбранные QSO</translation>
     </message>
     <message>
         <location filename="../logwindow.cpp" line="360"/>
         <source>Delete the selected QSOs</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить выбранные QSO</translation>
     </message>
     <message>
         <location filename="../logwindow.cpp" line="363"/>
         <source>Export to ADIF</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспорт в ADIF</translation>
     </message>
     <message>
         <location filename="../logwindow.cpp" line="364"/>
         <source>Export the selected QSOs to an ADIF file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспортировать выбранные QSO в файл ADIF.</translation>
     </message>
     <message>
         <location filename="../logwindow.cpp" line="372"/>
         <source>Upload to LoTW</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузить в LoTW</translation>
     </message>
     <message>
         <location filename="../logwindow.cpp" line="373"/>
         <source>Upload the selected QSOs to LoTW</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузить выбранные QSO в LoTW</translation>
     </message>
     <message>
         <location filename="../logwindow.cpp" line="376"/>
         <source>Upload to ClubLog</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузить в ClubLog</translation>
     </message>
     <message>
         <location filename="../logwindow.cpp" line="377"/>
         <source>Upload the selected QSOs to ClubLog</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузить выбранные QSO в ClubLog</translation>
     </message>
     <message>
         <location filename="../logwindow.cpp" line="380"/>
         <source>Upload to eQSL.cc</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузить на eQSL.cc</translation>
     </message>
     <message>
         <location filename="../logwindow.cpp" line="381"/>
         <source>Upload the selected QSOs to eQSL.cc</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузить выбранные QSO на eQSL.cc</translation>
     </message>
     <message>
         <location filename="../logwindow.cpp" line="385"/>
         <source>Send these QSLs via bureau</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправьте эти QSL через бюро</translation>
     </message>
     <message>
         <location filename="../logwindow.cpp" line="389"/>
         <source>Send these QSLs via direct</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправьте эти QSL через direct</translation>
     </message>
     <message>
         <location filename="../logwindow.cpp" line="393"/>
         <source>QSLs received via bureau</source>
-        <translation type="unfinished"></translation>
+        <translation>QSL, полученные через бюро</translation>
     </message>
     <message>
         <location filename="../logwindow.cpp" line="397"/>
@@ -1908,22 +1908,22 @@ Error returned: %2</source>
     <message>
         <location filename="../logwindow.cpp" line="400"/>
         <source>Select none</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите ничего</translation>
     </message>
     <message>
         <location filename="../logwindow.cpp" line="401"/>
         <source>Remove all selections</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить все выделения</translation>
     </message>
     <message>
         <location filename="../logwindow.cpp" line="404"/>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать все</translation>
     </message>
     <message>
         <location filename="../logwindow.cpp" line="405"/>
         <source>Select all the QSOs</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать все QSO</translation>
     </message>
 </context>
 <context>
@@ -1963,28 +1963,28 @@ Error returned: %2</source>
     <message>
         <location filename="../mainqsoentrywidget.cpp" line="40"/>
         <source>Time of the QSO.</source>
-        <translation type="unfinished"></translation>
+        <translation>Время QSO.</translation>
     </message>
     <message>
         <location filename="../mainqsoentrywidget.cpp" line="41"/>
         <source>Add the QSO to the log.</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавьте QSO в лог.</translation>
     </message>
     <message>
         <location filename="../mainqsoentrywidget.cpp" line="42"/>
         <source>Clears the QSO entry.</source>
-        <translation type="unfinished"></translation>
+        <translation>Очищает запись QSO.</translation>
     </message>
     <message>
         <location filename="../mainqsoentrywidget.cpp" line="43"/>
         <source>KLog will show real time if enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog будет показывать в реальном времени, если он включен.</translation>
     </message>
     <message>
         <location filename="../mainqsoentrywidget.cpp" line="58"/>
         <location filename="../mainqsoentrywidget.cpp" line="731"/>
         <source>Callsign</source>
-        <translation type="unfinished"></translation>
+        <translation>Позывной</translation>
     </message>
     <message>
         <location filename="../mainqsoentrywidget.cpp" line="568"/>
@@ -1995,7 +1995,8 @@ Error returned: %2</source>
         <location filename="../mainqsoentrywidget.cpp" line="736"/>
         <source>DUPE</source>
         <comment>Translator: DUPE is a common world for hams. Do not translate of not sure</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Переводчик: DUPE — это обычный мир для радиолюбителей. не переводить не уверен</translatorcomment>
+        <translation>ДЮП</translation>
     </message>
 </context>
 <context>
@@ -2004,7 +2005,7 @@ Error returned: %2</source>
         <location filename="../mainwindow.cpp" line="55"/>
         <location filename="../mainwindow.cpp" line="3945"/>
         <source>Check always the current callsign in QRZ.com</source>
-        <translation type="unfinished"></translation>
+        <translation>Всегда проверяйте текущий позывной на QRZ.com</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="67"/>
