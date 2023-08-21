@@ -2618,67 +2618,67 @@ Do you want KLog to remove that file?</source>
     <message>
         <location filename="../mainwindow.cpp" line="3862"/>
         <source>Shows the DX-QSLs that have been requested.</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывает запрошенные DX-QSL.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3865"/>
         <source>LoTW tools ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Инструменты LoTW...</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3867"/>
         <source>Queue all QSLs from this log to be sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Поставить в очередь все QSL из этого журнала для отправки</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3870"/>
         <source>Mark all non-sent QSOs in this log as queued to be uploaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Отметьте все неотправленные QSO в этом журнале как поставленные в очередь на загрузку.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3872"/>
         <source>Queue all QSLs to be sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Поставить в очередь все QSL для отправки</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3875"/>
         <source>Put all the non-sent QSOs in the queue to be uploaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Поставьте все неотправленные QSO в очередь на загрузку.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3879"/>
         <source>Mark all queued QSOs from this log as sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Отметить все поставленные в очередь QSO из этого журнала как отправленные</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3882"/>
         <source>Mark all queued QSOs in this log as sent to LoTW.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пометить все поставленные в очередь QSO в этом журнале как отправленные в LoTW.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3884"/>
         <source>Mark all queued QSOs as sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Отметить все QSO в очереди как отправленные</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3887"/>
         <source>Mark all queued QSOs as sent to LoTW.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пометить все QSO в очереди как отправленные в LoTW.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3896"/>
         <source>Download from LoTW ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Скачать с LoTW...</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3901"/>
         <source>Download the full log from LoTW ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Скачать полный лог с LoTW...</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3907"/>
         <source>ClubLog tools ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Инструменты ClubLog ...</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3909"/>
