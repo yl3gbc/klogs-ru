@@ -2548,12 +2548,12 @@ Do you want KLog to remove that file?</source>
     <message>
         <location filename="../mainwindow.cpp" line="3808"/>
         <source>KLog folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Папка KLog</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3810"/>
         <source>Opens the data folder of KLog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Открывает папку данных KLog.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3815"/>
@@ -2568,52 +2568,52 @@ Do you want KLog to remove that file?</source>
     <message>
         <location filename="../mainwindow.cpp" line="3824"/>
         <source>Fill in QSO data</source>
-        <translation type="unfinished"></translation>
+        <translation>Заполнить данные QSO</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3828"/>
         <source>Go through the log reusing previous QSOs to fill missing information in other QSOs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотрите журнал, повторно используя предыдущие QSO, чтобы заполнить недостающую информацию в других QSO.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3836"/>
         <source>QSL tools ...</source>
-        <translation type="unfinished"></translation>
+        <translation>QSL-инструменты...</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3843"/>
         <source>Find QSO to QSL</source>
-        <translation type="unfinished"></translation>
+        <translation>Найти QSO на QSL</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3846"/>
         <source>Shows QSOs for which you should send your QSL and request the DX QSL.</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывает QSO, для которых вы должны послать свою QSL и запросить DX QSL.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3848"/>
         <source>Find My-QSLs pending to send</source>
-        <translation type="unfinished"></translation>
+        <translation>Найти My-QSL, ожидающие отправки</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3852"/>
         <source>Shows the QSOs with pending requests to send QSLs. You should keep this queue empty!</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывает QSO с ожидающими запросами на отправку QSL. Вы должны держать эту очередь пустой!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3854"/>
         <source>Find DX-QSLs pending to receive</source>
-        <translation type="unfinished"></translation>
+        <translation>Найти ожидающие получения DX-QSL</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3857"/>
         <source>Shows DX-QSLs for which requests or QSLs have been sent with no answer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывает DX-QSL, для которых запросы или QSL были отправлены без ответа.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3859"/>
         <source>Find requested pending to receive</source>
-        <translation type="unfinished"></translation>
+        <translation>Найти запрос, ожидающий получения</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3862"/>
