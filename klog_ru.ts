@@ -2684,12 +2684,12 @@ Do you want KLog to remove that file?</source>
         <location filename="../mainwindow.cpp" line="3909"/>
         <location filename="../mainwindow.cpp" line="3922"/>
         <source>Queue all the QSOs to be uploaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Поставьте в очередь все QSO для загрузки</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3914"/>
         <source>Upload the queued QSOs to ClubLog ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузить поставленные в очередь QSO в ClubLog...</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3920"/>
