@@ -2694,12 +2694,12 @@ Do you want KLog to remove that file?</source>
     <message>
         <location filename="../mainwindow.cpp" line="3920"/>
         <source>eQSL tools ...</source>
-        <translation type="unfinished"></translation>
+        <translation>инструменты eQSL...</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3927"/>
         <source>Upload the queued QSOs to eQSL.cc ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузить поставленные в очередь QSO на eQSL.cc...</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3933"/>
