@@ -2704,48 +2704,48 @@ Do you want KLog to remove that file?</source>
     <message>
         <location filename="../mainwindow.cpp" line="3933"/>
         <source>QRZ.com tools ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Инструменты QRZ.com...</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3936"/>
         <source>Check the current callsign in QRZ.com</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверьте текущий позывной на QRZ.com</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3937"/>
         <source>Queue all the QSO to be uploaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Поставьте в очередь все QSO для загрузки</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3938"/>
         <source>Upload the queued QSOs to QRZ.com ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузите QSO из очереди на QRZ.com...</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3962"/>
         <source>Update cty.csv</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновить cty.csv</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3966"/>
         <location filename="../mainwindow.cpp" line="3971"/>
         <source>For updated DX-Entity data, update cty.csv.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для получения обновленных данных DX-Entity обновите cty.csv.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3968"/>
         <source>Update Satellite Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновление спутниковых данных</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3975"/>
         <source>Stats</source>
-        <translation type="unfinished"></translation>
+        <translation>Статистика</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3978"/>
         <source>Show the statistics of your radio activity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать статистику вашей радиоактивности.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3995"/>
@@ -2780,12 +2780,12 @@ Do you want KLog to remove that file?</source>
     <message>
         <location filename="../mainwindow.cpp" line="4023"/>
         <source>About Qt ...</source>
-        <translation type="unfinished"></translation>
+        <translation>По поводу Qt...</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="4031"/>
         <source>Check updates ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверьте обновления...</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="4108"/>
