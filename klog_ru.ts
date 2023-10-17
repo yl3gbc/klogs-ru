@@ -1533,62 +1533,63 @@ Do you want KLog to add this QSO to the log?</source>
     <message>
         <location filename="../lotwutilities.cpp" line="152"/>
         <source>Are you sure that you want to use that station callsign (%1)?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы уверены, что хотите использовать позывной этой станции (%1)?</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="212"/>
         <location filename="../lotwutilities.cpp" line="341"/>
         <source>KLog - LoTW File already exists</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog — файл LoTW уже существует</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="213"/>
         <location filename="../lotwutilities.cpp" line="342"/>
         <source>There is a file already existing with the name that will be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Уже существует файл с именем, которое будет использоваться.</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="214"/>
         <location filename="../lotwutilities.cpp" line="343"/>
         <source>The file %1 already exist. Do you want to overwrite?</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл %1 уже существует. Вы хотите перезаписать?</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="239"/>
         <location filename="../lotwutilities.cpp" line="368"/>
         <source>KLog - LoTW Can&apos;t write the file</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog - LoTW Невозможно записать файл</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="240"/>
         <location filename="../lotwutilities.cpp" line="369"/>
         <source>KLog was not able to save the file %1.
 Error returned: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog не удалось сохранить файл %1.
+Возвращена ошибка: %2</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="241"/>
         <location filename="../lotwutilities.cpp" line="370"/>
         <source>The file %1 already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл %1 уже существует.</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="259"/>
         <location filename="../lotwutilities.cpp" line="388"/>
         <source>Downloading data to file: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка данных в файл: %1.</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="261"/>
         <location filename="../lotwutilities.cpp" line="390"/>
         <location filename="../lotwutilities.cpp" line="652"/>
         <source>KLog - LoTW download</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog - загрузка LoTW</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="295"/>
         <source>KLog - LoTW Start date selection</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog — Выбор даты начала LoTW</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="296"/>
