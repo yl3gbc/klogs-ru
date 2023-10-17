@@ -1594,42 +1594,42 @@ Error returned: %2</source>
     <message>
         <location filename="../lotwutilities.cpp" line="296"/>
         <source>This is the first date of a QSO with the callsign %1 in this log If you think that in LoTW you may have previous QSOs, answer No.</source>
-        <translation type="unfinished"></translation>
+        <translation>Это первая дата QSO с позывным %1 в этом журнале. Если вы считаете, что в LoTW у вас могут быть предыдущие QSO, ответьте Нет.</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="297"/>
         <source>Do you want to used this date (%1) as start date?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы хотите использовать эту дату (%1) в качестве даты начала?</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="470"/>
         <source>KLog - LoTW Download error</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog — ошибка загрузки LoTW</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="472"/>
         <source>There was an error (%1) while downloading the file from LoTW.</source>
-        <translation type="unfinished"></translation>
+        <translation>При загрузке файла с LoTW произошла ошибка (%1).</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="473"/>
         <source>The downloading error details are: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Сведения об ошибке загрузки: %1</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="485"/>
         <source>KLog - LoTW Redirection found</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog – обнаружено перенаправление LoTW</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="486"/>
         <source>The remote server redirected our connection to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Удаленный сервер перенаправил наше соединение на %1</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="487"/>
         <source>Do you want to follow the redirection?</source>
-        <translation type="unfinished"></translation>
+        <translation>Хотите следовать перенаправлению?</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="562"/>
