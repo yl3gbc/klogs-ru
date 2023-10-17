@@ -1634,72 +1634,72 @@ Error returned: %2</source>
     <message>
         <location filename="../lotwutilities.cpp" line="562"/>
         <source>KLog - LoTW File not found</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog — Файл LoTW не найден</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="563"/>
         <source>KLog can&apos;t find the downloaded file.</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog не может найти загруженный файл.</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="564"/>
         <source>It was not possible for find the file %1 that has been just downloaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось найти только что загруженный файл %1 </translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="623"/>
         <source>KLog - LoTW user/password error</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog — ошибка пользователя/пароля LoTW</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="624"/>
         <source>LoTW server did not recognized your user/password</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервер LoTW не распознал вашего пользователя/пароль</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="625"/>
         <source>Check your user and password and ensure your are using the right one before trying again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверьте свой пользователь и пароль и убедитесь, что вы используете правильный, прежде чем повторить попытку.</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="629"/>
         <source>KLog - LoTW No QSOs </source>
-        <translation type="unfinished"></translation>
+        <translation>KLog - LoTW Нет связей </translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="630"/>
         <source>LoTW sent no QSOs</source>
-        <translation type="unfinished"></translation>
+        <translation>LoTW не провел QSO</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="631"/>
         <source>It seems that LoTW has no QSO with the Station Callsign you are using (%1).</source>
-        <translation type="unfinished"></translation>
+        <translation>Похоже, что у LoTW нет связей с позывным станции, которую вы используете (%1).</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="635"/>
         <source>KLog - LoTW Unknown error</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog — Неизвестная ошибка LoTW</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="636"/>
         <source>KLog can&apos;t recognize the file that has been downloaded from LoTW.</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog не может распознать файл, загруженный с LoTW.</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="637"/>
         <source>Try again and send the downloaded file (%1) to the KLog developer for analysis.</source>
-        <translation type="unfinished"></translation>
+        <translation>Попробуйте еще раз и отправьте загруженный файл (%1) разработчику KLog для анализа.</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="653"/>
         <source>KLog downloaded %1 QSOs successfully. Do you want to update your log with the downloaded data?</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog успешно загрузил %1 QSO. Хотите обновить свой журнал загруженными данными?</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="654"/>
         <source>Now KLog will process the downloaded QSO and update your local log.</source>
-        <translation type="unfinished"></translation>
+        <translation>Теперь KLog обработает загруженное QSO и обновит ваш локальный журнал.</translation>
     </message>
 </context>
 <context>
@@ -1717,12 +1717,12 @@ Error returned: %2</source>
     <message>
         <location filename="../logmodel.cpp" line="111"/>
         <source>Band</source>
-        <translation type="unfinished"></translation>
+        <translation>диапазон</translation>
     </message>
     <message>
         <location filename="../logmodel.cpp" line="114"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>выд излучение</translation>
     </message>
     <message>
         <location filename="../logmodel.cpp" line="117"/>
@@ -1954,7 +1954,7 @@ Error returned: %2</source>
     <message>
         <location filename="../mainqsoentrywidget.cpp" line="38"/>
         <source>Mode of the QSO.</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим QSO.</translation>
     </message>
     <message>
         <location filename="../mainqsoentrywidget.cpp" line="39"/>
@@ -2109,7 +2109,9 @@ KLog will remind you to backup on a monthly basis.
 
 После того, как вы экспортируете свой журнал в файл ADIF, вы должны скопировать этот файл в безопасное место, например на USB-накопитель, облачный диск, другой компьютер и т. д.
 
-KLog ежемесячно будет напоминать вам о резервном копировании.</translation>
+KLog ежемесячно будет напоминать вам о резервном копировании.
+
+</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="717"/>
@@ -2751,12 +2753,12 @@ Do you want KLog to remove that file?</source>
     <message>
         <location filename="../mainwindow.cpp" line="3995"/>
         <source>Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Настраивать</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="3997"/>
         <source>Setup ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Настраивать ...</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="4003"/>
@@ -2803,89 +2805,89 @@ Do you want KLog to remove that file?</source>
         <location filename="../mainwindow.cpp" line="6286"/>
         <location filename="../mainwindow.cpp" line="6296"/>
         <source>KLog LoTW</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog LoTW</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="4109"/>
         <source>All pending QSOs of this log has been marked as queued for LoTW!</source>
-        <translation type="unfinished"></translation>
+        <translation>Все ожидающие связи в этом журнале отмечены как поставленные в очередь LoTW!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="4109"/>
         <location filename="../mainwindow.cpp" line="4178"/>
         <source>Now you can go to the File menu to export the LoTW ADIF file and upload it to LoTW.</source>
-        <translation type="unfinished"></translation>
+        <translation>Теперь вы можете перейти в меню «Файл», чтобы экспортировать файл LoTW ADIF и загрузить его в LoTW.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="4118"/>
         <location filename="../mainwindow.cpp" line="4186"/>
         <source>There was a problem to mark all pending QSOs of this log as queued for LoTW!</source>
-        <translation type="unfinished"></translation>
+        <translation>Возникла проблема с пометкой всех ожидающих QSO в этом журнале как находящихся в очереди на LoTW!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="4147"/>
         <source>Your log has been updated with the LoTW downloaded QSOs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваш журнал обновлен за счет загруженных LoTW связей.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="4148"/>
         <source>KLog has updated %1 QSOs from LoTW.</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog обновил %1 связей с LoTW.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="4158"/>
         <source>Your log has not been updated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваш журнал не был обновлен.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="4159"/>
         <source>No QSO was updated with the data coming from LoTW. This may be because of errors in the logfile or simply because your log was already updated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ни одно QSO не было обновлено данными, поступающими от LoTW. Это может быть связано с ошибками в файле журнала или просто с тем, что ваш журнал уже обновлен.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="4178"/>
         <source>All pending QSOs has been marked as queued for LoTW!</source>
-        <translation type="unfinished"></translation>
+        <translation>Все ожидающие связи отмечены как поставленные в очередь LoTW!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="4206"/>
         <source>KLog - TQSL</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog - TQSL</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="4210"/>
         <source>TQSL is not installed or KLog can&apos;t find it. Please check the configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>TQSL не установлен или KLog не может его найти. Пожалуйста, проверьте конфигурацию.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="4224"/>
         <source>TQSL finished with no error.</source>
-        <translation type="unfinished"></translation>
+        <translation>TQSL завершился без ошибок.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="4229"/>
         <source>Error #1: The process was cancelled by the user or TQSL was not configured. No QSOs were uploaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка №1: процесс был отменен пользователем или TQSL не настроен. Никакие связи не были загружены.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="4233"/>
         <source>Error #2: Upload was rejected by LoTW, please check your data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка №2: LoTW отклонил загрузку, проверьте свои данные.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="4237"/>
         <source>Error #3: The TQSL server returned an unexpected response.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка №3: ​​Сервер TQSL вернул неожиданный ответ.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="4241"/>
         <source>Error #4: There was a TQSL error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка №4: произошла ошибка TQSL.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="4245"/>
         <source>Error #5: There was a TQSLLib error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка №5: произошла ошибка TQSLLib.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="4249"/>
