@@ -124,7 +124,7 @@
     <message>
         <location filename="../aboutdialog.cpp" line="96"/>
         <source>Be aware that you can enable/disable this feature from the Misc tab in the Setup page.</source>
-        <translation>Имейте в виду, что вы можете включить/отключить эту функцию на вкладке «Разное» на странице «Настройка»</translation>
+        <translation>И мейте в виду, что вы можете включить/отключить эту функцию на вкладке Разное на странице Настройка</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="134"/>
@@ -192,7 +192,7 @@
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="63"/>
         <source>Band</source>
-        <translation type="unfinished"></translation>
+        <translation>Диапазон</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="63"/>
@@ -653,7 +653,7 @@ Do you want to try again?</source>
         <source>Field Aligned Irregularities</source>
         <comment>Common term in hamradio, do not translate if not sure</comment>
         <translatorcomment>Распространенный термин в радиолюбителях, не переводите, если не уверены</translatorcomment>
-        <translation type="unfinished">Неровности, выровненные по полю</translation>
+        <translation>Неровности, выровненные по полю</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="4450"/>
@@ -808,7 +808,7 @@ Do you want to try again?</source>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="9216"/>
         <source>An invalid callsign has been detected %1. Do you want to export this callsign anyway (click on Yes) or remove the call from the exported log?</source>
-        <translation type="unfinished">Обнаружен неверный позывной %1. Вы все равно хотите экспортировать этот позывной (нажмите Да) или удалить позывной из экспортированного журнала?</translation>
+        <translation>Обнаружен неверный позывной %1. Вы все равно хотите экспортировать этот позывной (нажмите Да) или удалить позывной из экспортированного журнала?</translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="9220"/>
