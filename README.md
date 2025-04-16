@@ -2,4 +2,4 @@
 KLOG TRANSLATE Russia
 #
 
- Arnis-Janis ArmansYL3GBC/Алексей Алексеевич Шафиев RA3PPY/Marija Okuneva R3TM 
+ Arnis-Janis ArmansYL3GBC/Алексей Алексеевич Шафиев RA3PPY/Marija Okuneva R3TM /Olga G. Skobeleva RA3TYL 
