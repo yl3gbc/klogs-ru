@@ -16,7 +16,7 @@
     <message>
         <location filename="../aboutdialog.cpp" line="26"/>
         <source>KLog is a free logbook for hamradio operators.</source>
-        <translation>KLog — бесплатный аппаратный журнал для радиолюбителей.</translation>
+        <translation>KLog — бесплатный бортовой журнал для радиолюбителей.</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="27"/>
@@ -78,12 +78,12 @@
     <message>
         <location filename="../aboutdialog.cpp" line="79"/>
         <source>Translators bring KLog into your language. They are really an important part of the KLog development team.</source>
-        <translation>Переводчики делают KLog доступным на вашем языке. Они действительно важная часть команды разработчиков KLog.</translation>
+        <translation>Переводчики переводят KLog на ваш язык. Они действительно важная часть команды разработчиков KLog.</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="79"/>
         <source>If KLog is still not in your language and you want to help us, you are welcome to contact us through the &lt;a href=&quot;https://lists.nongnu.org/mailman/listinfo/klog-devel&quot;&gt;KLog development mailing list&lt;/a&gt;!</source>
-        <translation>Если KLog все еще не на вашем языке и вы хотите помочь нам, вы свяжитесь с нами через &lt;a href=&quot;https://lists.nongnu.org/mailman/listinfo/klog-devel&quot;&gt;рассылку по разработке KLog. список&lt;/a&gt;!</translation>
+        <translation>Если KLog все еще не на вашем языке и вы хотите помочь нам, вы можете связаться с нами через &lt;a href=&quot;https://lists.nongnu.org/mailman/listinfo/klog-devel&quot;&gt;рассылку по разработке KLog. список&lt;/a&gt;!</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="80"/>
@@ -129,7 +129,7 @@
     <message>
         <location filename="../aboutdialog.cpp" line="134"/>
         <source>KLog</source>
-        <translation>Klog</translation>
+        <translation>Клог</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="137"/>
@@ -172,7 +172,7 @@
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="52"/>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation>Хорошо</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="53"/>
@@ -197,7 +197,7 @@
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="63"/>
         <source>Mode</source>
-        <translation>Модуляция</translation>
+        <translation>Режим</translation>
     </message>
     <message>
         <location filename="../widgets/adiflotwexportwidget.cpp" line="106"/>
@@ -298,17 +298,17 @@
     <message>
         <location filename="../awardswidget.cpp" line="79"/>
         <source>Award</source>
-        <translation>Диплом</translation>
+        <translation>Награда</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="81"/>
         <source>Confirmed</source>
-        <translation>Подтвержден</translation>
+        <translation>Подтвержденный</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="84"/>
         <source>Worked</source>
-        <translation>Сработан</translation>
+        <translation>Работал</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="90"/>
@@ -329,12 +329,12 @@
     <message>
         <location filename="../awardswidget.cpp" line="255"/>
         <source>Number of confirmed DXCC entities.</source>
-        <translation>Количество подтвержденных стран DXCC.</translation>
+        <translation>Количество подтвержденных участников DXCC.</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="256"/>
         <source>Number of worked DXCC entities.</source>
-        <translation>Количество сработанных объектов DXCC.</translation>
+        <translation>Количество отработанных объектов DXCC.</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="257"/>
@@ -344,7 +344,7 @@
     <message>
         <location filename="../awardswidget.cpp" line="258"/>
         <source>Number of worked WAZ zones.</source>
-        <translation>Количество сработанных зон WAZ.</translation>
+        <translation>Количество отработанных зон WAZ.</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="261"/>
@@ -354,7 +354,7 @@
     <message>
         <location filename="../awardswidget.cpp" line="262"/>
         <source>Number of worked QSOs.</source>
-        <translation>Количество сработанных QSO.</translation>
+        <translation>Количество отработанных QSO.</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="264"/>
@@ -364,17 +364,17 @@
     <message>
         <location filename="../awardswidget.cpp" line="265"/>
         <source>Number of DXCCs worked in the selected year.</source>
-        <translation>Количество DXCC, сработанных в выбранном году.</translation>
+        <translation>Количество DXCC, работающих в выбранном году.</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="266"/>
         <source>Number of CQ Zones worked in the selected year.</source>
-        <translation>Количество зон CQ, сработанных в выбранном году.</translation>
+        <translation>Количество зон CQ, работающих в выбранном году.</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="267"/>
         <source>Score for the DXMarathon in the selected year.</source>
-        <translation>Оценка за DX-марафон в выбранном году.</translation>
+        <translation>Оценка за DXMarathon в выбранном году.</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="381"/>
@@ -4131,7 +4131,7 @@ Frequency is not in a hamradio band!</source>
     <message>
         <location filename="../awards.cpp" line="785"/>
         <source>New One, work it!</source>
-        <translation>Новый, работай!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../awards.cpp" line="789"/>
@@ -4143,7 +4143,7 @@ Frequency is not in a hamradio band!</source>
         <location filename="../awards.cpp" line="814"/>
         <location filename="../awards.cpp" line="820"/>
         <source>Needed, work it!</source>
-        <translation>Необходимый, работай!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../awards.cpp" line="796"/>
@@ -4151,78 +4151,78 @@ Frequency is not in a hamradio band!</source>
         <location filename="../awards.cpp" line="817"/>
         <location filename="../awards.cpp" line="823"/>
         <source>Worked but not confirmed</source>
-        <translation>Работал, но не подтвержден</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../awards.cpp" line="826"/>
         <source>Confirmed</source>
-        <translation>Подтвержден</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../awards.cpp" line="830"/>
         <source>Not identified</source>
-        <translation>Не определен</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../database.cpp" line="226"/>
         <location filename="../database.cpp" line="290"/>
         <source>Database Error</source>
-        <translation>Ошибка базы данных</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../database.cpp" line="1500"/>
         <source>KLog DB needs to be upgraded.</source>
-        <translation>Необходимо обновить базу данных KLog.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../database.cpp" line="1501"/>
         <source>Do you want to upgrade it now?</source>
-        <translation>Обновить его сейчас?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../database.cpp" line="1501"/>
         <source>If DB is not upgraded KLog may not work properly.</source>
-        <translation>Если база данных не обновлена, KLog может работать неправильно.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../database.cpp" line="1540"/>
         <source>Upgrading software may potentially cause problems. Backing up your DB, before upgrading, is always a good idea.</source>
-        <translation>Обновление программного обеспечения может вызвать проблемы. Неоходимо выполнить резервное копирование базы данных перед обновлением .</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../database.cpp" line="1541"/>
         <source>Do you want to backup your DB now?</source>
-        <translation>Создать резервную копию базы данных сейчас?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../database.cpp" line="1585"/>
         <source>The backup finished successfully.</source>
-        <translation>Архивация успешно завершена.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../database.cpp" line="1586"/>
         <source>You can find the backup in this file: %1</source>
-        <translation>Архив можно найти в файле:%1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../database.cpp" line="1596"/>
         <source>The backup was not properly done.</source>
-        <translation>Резервное копирование не было выполнено должным образом.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../database.cpp" line="1597"/>
         <source>You will be sent back to the starting point.</source>
-        <translation>Вы будете отправлены обратно в начало.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../database.cpp" line="2083"/>
         <source>KLog - DB can&apos;t be updated automatically</source>
-        <translation>KLog - БД не может обновляться автоматически</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../database.cpp" line="2084"/>
         <source>You are upgrading from a too old KLog version and this upgrade can&apos;t be upgraded automatically from that version.</source>
-        <translation>Вы обновляетесь со слишком старой версии KLog, и это обновление не может быть обновлено автоматически с этой версии.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../database.cpp" line="2085"/>
@@ -4233,13 +4233,7 @@ Frequency is not in a hamradio band!</source>
 - Import your ADIF file.
 
 KLog will finish when you click on OK.</source>
-        <translation>Процесс обновления:
-- Использование старой версии KLog для экспорта журнала в ADIF.
-- Удалите файл logbook.dat из папки KLog.
-- Установите новую версию KLog.
-- Импортируйте файл ADIF.
-
-KLog закончит, когда вы нажмете на OK.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../database.cpp" line="2222"/>
@@ -4248,38 +4242,38 @@ KLog закончит, когда вы нажмете на OK.</translation>
         <location filename="../database.cpp" line="4321"/>
         <location filename="../database.cpp" line="4530"/>
         <source>KLog - DB update</source>
-        <translation>KLog - обновление БД</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../database.cpp" line="2280"/>
         <source>KLog has detected a previous log in the DB. All data will be migrated to a newly created DX type log for you.</source>
-        <translation>KLog обнаружил предыдущий журнал в базе данных. Все данные будут перенесены в недавно созданный для вас журнал типа DX.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../database.cpp" line="2298"/>
         <source>KLog: Enter Station callsign</source>
-        <translation>Klog: Введите позывной радиостанции</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../database.cpp" line="2299"/>
         <source>Enter the station callsign used in this log</source>
-        <translation>Введите позывной радиостанции, используемый в этом журнале</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../database.cpp" line="2300"/>
         <source>Station Callsign</source>
-        <translation>Позывной радиостанции</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../database.cpp" line="2351"/>
         <source>All the data was migrated correctly. You should now go to Setup-&gt;Preferences-&gt;Logs to check that everything is okay.</source>
-        <translation>Все данные были перенесены правильно. Теперь вы должны перейти в Setup- &gt; Preferences- &gt; Logs, чтобы проверить, что все в порядке.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../database.cpp" line="3847"/>
         <location filename="../database.cpp" line="3868"/>
         <source>Updating mode information...</source>
-        <translation>Обновление информации о модуляции...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../database.cpp" line="3847"/>
@@ -4288,14 +4282,14 @@ KLog закончит, когда вы нажмете на OK.</translation>
         <location filename="../database.cpp" line="4431"/>
         <location filename="../dataproxy_sqlite.cpp" line="6068"/>
         <source>Abort updating</source>
-        <translation>Прервать обновление</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../database.cpp" line="3868"/>
         <location filename="../database.cpp" line="4050"/>
         <location filename="../dataproxy_sqlite.cpp" line="6113"/>
         <source>QSO: </source>
-        <translation>QSO: </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../database.cpp" line="3942"/>
@@ -4303,7 +4297,7 @@ KLog закончит, когда вы нажмете на OK.</translation>
         <location filename="../database.cpp" line="4322"/>
         <location filename="../database.cpp" line="4531"/>
         <source>Canceling this update will cause data inconsistencies and possibly data loss. Do you still want to cancel?</source>
-        <translation>Отмена этого обновления приведет к несогласованности данных и возможной потере данных. Отменить?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../database.cpp" line="4031"/>
@@ -4311,48 +4305,48 @@ KLog закончит, когда вы нажмете на OK.</translation>
         <location filename="../database.cpp" line="4251"/>
         <location filename="../database.cpp" line="4454"/>
         <source>Updating bands information...</source>
-        <translation>Обновление информации о диапазонах...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../database.cpp" line="4227"/>
         <source>Updating bands information in %1 status...</source>
-        <translation>Обновление сведений о диапазонах в %1 состоянии...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../database.cpp" line="4251"/>
         <location filename="../database.cpp" line="4454"/>
         <source>Progress: </source>
-        <translation>Прогресс: </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../database.cpp" line="4429"/>
         <source>Updating mode information in %1 status...</source>
-        <translation>Обновление сведений о модуляции в %1 состоянии...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="6068"/>
         <source>Updating information...</source>
-        <translation>Обновить сведения...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../dataproxy_sqlite.cpp" line="6113"/>
         <source>Updating DXCC and Continent information...</source>
-        <translation>Обновление информации DXCC и Continent...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../main.cpp" line="268"/>
         <source>Install wizard was canceled before completing...</source>
-        <translation>Мастер установки был отменен перед завершением...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../main.cpp" line="269"/>
         <source>Do you want to remove the KLog dir from your disk?</source>
-        <translation>Удалить каталог KLog с Вашего диска?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../main.cpp" line="282"/>
         <source>Your KLog dir has been removed</source>
-        <translation>Ваш каталог KLog был удален</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../main.cpp" line="282"/>
@@ -4360,37 +4354,37 @@ KLog закончит, когда вы нажмете на OK.</translation>
         <location filename="../main.cpp" line="295"/>
         <location filename="../main.cpp" line="301"/>
         <source>Thank you for running KLog!</source>
-        <translation>Спасибо за запуск KLog!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../main.cpp" line="288"/>
         <source>I could not remove your KLog dir. You should do it manually if you want it removed from your hard disk.</source>
-        <translation>Я не смог удалить Ваш каталог KLog. Вы должны сделать это вручную, если вы хотите, чтобы он был удален с Вашего жесткого диска.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../main.cpp" line="295"/>
         <source>Your KLog dir could not be removed. You should do it manually if you want it removed from your hard disk.</source>
-        <translation>Не удалось удалить каталог KLog. Вы должны сделать это вручную, если хотите удалить его с жесткого диска.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../main.cpp" line="301"/>
         <source>Remember that your KLog dir is on your system...</source>
-        <translation>Помните, что ваш каталог KLog находится в вашей системе...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../utilities.cpp" line="1076"/>
         <source>A wrong callsign has been found: %1. Please enter a new callsign or confirm that the current one is a good callsign.</source>
-        <translation>Обнаружен недействующий позывной:%1. Введите новый позывной или подтвердите, что текущий является действующим.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../utilities.cpp" line="1081"/>
         <source>An empty callsign has been detected. If it is possible, please enter the right call.</source>
-        <translation>Обнаружен пустой позывной. Если это возможно, пожалуйста, введите правильный позывной.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../utilities.cpp" line="1084"/>
         <source>KLog - Not valid callsign found</source>
-        <translation>KLog - обнаружен недопустимый позывной</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5150,187 +5144,187 @@ If no port is specified, 41112 will be used by default:</source>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="44"/>
         <source>ClubLog password</source>
-        <translation>ClubLog пароль</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="45"/>
         <source>ClubLog email</source>
-        <translation>ClubLog email</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="49"/>
         <source>Enter the email you used to register in ClubLog.</source>
-        <translation>Введите свой email, который Вы использовали при регистрации в ClubLog.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="50"/>
         <source>Enter your password ClubLog here. Warning: The password will be save on clear in the KLog config file!! (If you don&apos;t want to enter the password, KLog will ask you when it is needed.)</source>
-        <translation>Введите свой пароль ClubLog здесь. Предупреждение: Пароль будет сохранен в конфигурационном файле KLog!! (Если вы не хотите вводить пароль, KLog спросит вас, когда это необходимо.)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="56"/>
         <source>Send QSOs in real time</source>
-        <translation>Отправка QSO в режиме реального времени</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="57"/>
         <source>Activate ClubLog</source>
-        <translation>Активировать ClubLog</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="58"/>
         <source>Send each QSO to ClubLog in real time, as they are added (or modified) in KLog.</source>
-        <translation>Отправить каждое QSO в ClubLog в режиме реального времени, так как они добавлены (или изменены) в KLog.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="59"/>
         <source>Starts the ClubLog support in KLog.</source>
-        <translation>Запустить поддержку ClubLog в KLog.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="64"/>
         <source>Activate eQSL.cc</source>
-        <translation>Актививровать eQSL.cc</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="65"/>
         <source>Enter your username of eQSL.cc.</source>
-        <translation>Введите Ваше имя пользователя в eQSL.cc.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="66"/>
         <source>Enter your password eQSL.cc here. Warning: The password will be save on clear in the KLog config file!! (If you don&apos;t want to enter the password, KLog will ask you when it is needed.)</source>
-        <translation>Введите свой пароль eQSL.cc здесь. Предупреждение: Пароль будет сохранен в конфигурационном файле KLog!! (Если вы не хотите вводить пароль, KLog спросит вас, когда это необходимо.)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="69"/>
         <source>eQSL.cc password</source>
-        <translation>eQSL.cc пароль</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="70"/>
         <source>eQSL.cc user</source>
-        <translation>eQSL.cc пользователь</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="72"/>
         <source>ClubLog</source>
-        <translation>ClubLog</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="73"/>
         <source>eQSL.cc</source>
-        <translation>eQSL.cc</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="100"/>
         <source>QRZ.com</source>
-        <translation>QRZ.com</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="103"/>
         <source>Enter the user of your QRZ.com account. You need to be subscribed to QRZ.com to use this service.</source>
-        <translation>Введите имя пользователя своей учетной записи QRZ.com. Вы должны быть зарегистрированы на QRZ.com, чтобы использовать эту услугу.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="105"/>
         <source>User</source>
-        <translation>Пользователь</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="108"/>
         <source>Enter your password QRZ.com here. Warning: The password will be save on clear in the KLog config file!! (If you don&apos;t want to enter the password, KLog will ask you when it is needed.)</source>
-        <translation>Введите свой пароль QRZ.com здесь. Предупреждение: Пароль будет сохранен в конфигурационном файле KLog!! (Если вы не хотите вводить пароль, KLog спросит вас, когда это необходимо.)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="111"/>
         <source>Password</source>
-        <translation>Пароль</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="112"/>
         <source>Activate QRZ.com</source>
-        <translation>Активировать QRZ.com</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="113"/>
         <source>Check automatically</source>
-        <translation>Проверять автоматически</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="114"/>
         <source>Check in Qrz.com all Calls as they are entered</source>
-        <translation>Регистрация на Qrz.com всех позывных по мере их ввода</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="117"/>
         <source>LogBook Key</source>
-        <translation>LogBook-ключ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="119"/>
         <source>LogBook Key for QSO uploading. You can get this key in your QRZ.com logbook webpage. Remember that you need a QRZ.com subscription to use this feature.</source>
-        <translation>Ключ LogBook для загрузки QSO. Вы можете получить этот ключ на своей веб-странице QRZ.com. Помните, что для использования этой функции вам нужна регистрация QRZ.com.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="143"/>
         <source>LoTW</source>
-        <translation>LoTW</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="144"/>
         <source>Upload</source>
-        <translation>Загрузить</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="145"/>
         <source>Download</source>
-        <translation>Выгрузить</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="153"/>
         <source>TQSL path</source>
-        <translation>TQSL путь</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="154"/>
         <source>Use TQSL</source>
-        <translation>Использование TQSL</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="155"/>
         <source>LoTW password</source>
-        <translation>LoTW пароль</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="156"/>
         <source>LoTW user</source>
-        <translation>LoTW пользователь</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="158"/>
         <source>Enter your LoTW user.</source>
-        <translation>Введите Ваше имя пользователя в LoTW.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="159"/>
         <source>Enter your password LoTW here. Warning: The password will be save on clear in the KLog config file!! (If you don&apos;t want to enter the password, KLog will ask you when it is needed.)</source>
-        <translation>Введите свой пароль LoTW здесь. Предупреждение: Пароль будет сохранен в конфигурационном файле KLog!! (Если вы не хотите вводить пароль, KLog спросит вас, когда это необходимо.)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="160"/>
         <source>Path to the TQSL software.</source>
-        <translation>Путь к программному обеспечению TQSL.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="161"/>
         <source>Enable the LoTW integration with TQSL. You will need to have TQSL installed</source>
-        <translation>Включите интеграцию LoTW с TQSL. Вам нужно будет установить TQSL</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppageelog.cpp" line="504"/>
         <source>Select File</source>
-        <translation>Выбрать файл</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5338,187 +5332,187 @@ If no port is specified, 41112 will be used by default:</source>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="54"/>
         <source>Activate HamLib</source>
-        <translation>Активировать HamLib</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="55"/>
         <source>Activates the hamlib support that will enable the connection to a radio.</source>
-        <translation>Активизирует поддержку hamlib, которая активирует подключение к радиостанции.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="56"/>
         <source>Read-Only mode</source>
-        <translation>Режим только для чтения</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="57"/>
         <source>If enabled, the KLog will read Freq/Mode from the radio but will never send any command to the radio.</source>
-        <translation>Если включено, KLog будет считывать Freq/Mode с радиостанции, но никогда не будет отправлять какие-либо команды на радиостанцию.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="75"/>
         <source>Radio</source>
-        <translation>Радиостанция</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="77"/>
         <source>Select your rig.</source>
-        <translation>Выберите Ваше оборудование.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="81"/>
         <source>Defines the interval to poll the radio in msecs.</source>
-        <translation>Определяет интервал опроса радиостанции в msecs.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="87"/>
         <source>Poll interval</source>
-        <translation>Интервал опроса</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="99"/>
         <source>Port</source>
-        <translation>Порт</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="101"/>
         <source>Select the serial port. Only the serial ports that are detected are shown.</source>
-        <translation>Выберите последовательный порт. Отображаются только обнаруженные последовательные порты.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="105"/>
         <source>Scan</source>
-        <translation>Сканирование</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="106"/>
         <source>Click to identify the serial ports available in your computer.</source>
-        <translation>Щелкните, чтобы определить последовательные порты, доступные на компьютере.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="111"/>
         <source>Bauds</source>
-        <translation>Боды</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="113"/>
         <source>Select the serial port speed.</source>
-        <translation>Выберите скорость последовательного порта.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="120"/>
         <source>5 bits</source>
-        <translation>5 бит</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="120"/>
         <source>6 bits</source>
-        <translation>6 бит</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="120"/>
         <source>7 bits</source>
-        <translation>7 бит</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="120"/>
         <source>8 bits</source>
-        <translation>8 бит</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="122"/>
         <source>Data bits</source>
-        <translation>Биты данных</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="124"/>
         <source>Select the serial data bits.</source>
-        <translation>Выберите биты последовательных данных.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="131"/>
         <source>None</source>
-        <translation>Ничего</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="131"/>
         <source>Hardware</source>
-        <translation>аппаратные средства</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="131"/>
         <source>Software XON/XOFF</source>
-        <translation>Программное обеспечение XON/XOFF</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="133"/>
         <source>Flow control</source>
-        <translation>Управление потоками</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="135"/>
         <source>Select the serial flow control</source>
-        <translation>Выберите управление последовательным потоком</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="141"/>
         <source>No parity</source>
-        <translation>Неравнозначный</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="141"/>
         <source>Even</source>
-        <translation>Четный</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="141"/>
         <source>Odd</source>
-        <translation>Нечетный</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="141"/>
         <source>Space</source>
-        <translation>Космос</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="141"/>
         <source>Mark</source>
-        <translation>Отметка</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="143"/>
         <source>Parity</source>
-        <translation>Равнозначный</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="145"/>
         <source>Select the serial parity.</source>
-        <translation>Выберите последовательный контроль четности.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="152"/>
         <source>1 bit</source>
-        <translation>1 бит</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="152"/>
         <source>1.5 bits</source>
-        <translation>1,5 бит</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="152"/>
         <source>2 bits</source>
-        <translation>2 бит</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="154"/>
         <source>Stop bits</source>
-        <translation>Остановить биты</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagehamlib.cpp" line="156"/>
         <source>Select the serial stop bits.</source>
-        <translation>Выберите серийные биты для остановки.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5694,243 +5688,243 @@ The log will not be opened.</source>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="38"/>
         <source>&amp;Imperial system</source>
-        <translation>&amp;Имперская система</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="39"/>
         <source>&amp;Log in real time</source>
-        <translation>&amp;Войти в систему в режиме реального времени</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="40"/>
         <source>&amp;Time in UTC</source>
-        <translation>&amp;Время в UTC</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="41"/>
         <source>&amp;Save ADIF on exit</source>
-        <translation>&amp;Сохранить ADIF при выходе</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="42"/>
         <source>Use this &amp;default filename</source>
-        <translation>Использовать это&amp;имя файла по умолчанию</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="43"/>
         <source>Mark &amp;QSO to send QSL when QSL is received</source>
-        <translation>Отметить&amp;QSO для отправки QSL при получении QSL</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="44"/>
         <source>Complete QSO with previous data</source>
-        <translation>Завершение QSO с предыдущими данными</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="45"/>
         <source>Show the Station &amp;Callsign used in the search box</source>
-        <translation>Показать&amp;позывной радиостанции, используемый в поле поиска</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="47"/>
         <source>&amp;Check for new versions automatically</source>
-        <translation>&amp;Автоматически проверять наличие новых версий</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="48"/>
         <source>&amp;Provide Info for statistics</source>
-        <translation>&amp;Предоставить сведения для статистики</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="49"/>
         <source>Manage DX-Marathon</source>
-        <translation>Управление DX-марафоном</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="50"/>
         <source>Activate the application debug log</source>
-        <translation>Активация журнала отладки приложения</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="52"/>
         <source>Mark sent eQSL &amp;&amp; LoTW in new QSO as queued</source>
-        <translation>Отметить в очередь на отправку нового QSO в eQSL&amp;&amp;LoTW</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="53"/>
         <source>&amp;Delete always temp ADIF file after uploading QSOs</source>
-        <translation>&amp;Всегда удалять временный файл ADIF после загрузки QSO</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="60"/>
         <location filename="../setuppages/setuppagemisc.cpp" line="61"/>
         <source>Browse</source>
-        <translation>&amp; Браузер</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="62"/>
         <source>Move DB</source>
-        <translation>Переместить БД</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="129"/>
         <source>QSOs will be marked as pending to send a QSL if you receive the DX QSL and have not sent yours.</source>
-        <translation>QSO будут помечены как ожидающие отправки QSL, если вы получили DX QSL и не отправили свой.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="130"/>
         <source>The search box will also show the callsign on the air to do the QSO.</source>
-        <translation>Окно поиска также покажет позывной в эфире для выполнения QSO.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="132"/>
         <source>Check if there is a new release of KLog available every time you start KLog.</source>
-        <translation>Проверьте, доступна ли новая версия KLog каждый раз при запуске KLog.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="133"/>
         <source>If new version checking is selected, KLog will send the developer your callsign, KLog version and Operating system to help in improving KLog.</source>
-        <translation>Если выбрана проверка новой версии, KLog отправит разработчику ваш позывной, версию KLog и операционную систему, чтобы помочь в улучшении KLog.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="134"/>
         <source>Check it for Imperial system (Miles instead of Kilometers).</source>
-        <translation>Проверьте его для имперской системы (мили вместо километров).</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="135"/>
         <source>Select to use real time.</source>
-        <translation>Выберите для использования в режиме реального времени.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="136"/>
         <source>Select to use UTC time.</source>
-        <translation>Выберите для использования в режиме времени UTC.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="137"/>
         <source>Select if you want to save to ADIF on exit.</source>
-        <translation>Выберите, если вы хотите сохранить в ADIF при выходе.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="138"/>
         <source>Select to use the following name for the logfile without being asked for it again.</source>
-        <translation>Выберите, чтобы использовать следующее имя для файла журнала без повторного запроса.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="139"/>
         <source>Complete the current QSO with previous QSO data.</source>
-        <translation>Заполните текущую QSO предыдущими данными QSO.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="140"/>
         <source>Select if you want to manage DX-Marathon.</source>
-        <translation>Выберите, для управления DX-Marathon.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="141"/>
         <source>This is the default file where ADIF data will be saved.</source>
-        <translation>Это файл по умолчанию, в котором будут сохраняться данные ADIF.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="142"/>
         <source>This is the directory where the database (logbook.dat) will be saved.</source>
-        <translation>Это каталог, в котором будет сохранена база данных (logbook.dat).</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="143"/>
         <source>Click to change the default ADIF file.</source>
-        <translation>Щелкните, чтобы изменить файл ADIF по умолчанию.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="144"/>
         <source>Click to change the path of the database.</source>
-        <translation>Щелкните, чтобы изменить путь к базе данных.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="145"/>
         <source>Click to move the DB to the new directory.</source>
-        <translation>Щелкните, чтобы переместить базу данных в новый каталог.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="146"/>
         <source>Activates the application debug log. This may be useful if something is not working as expected. A debug file will be created in the KLog directory.</source>
-        <translation>Активирует журнал отладки приложения. Это может быть полезно, если что-то работает не так, как ожидалось. В каталоге KLog будет создан файл отладки.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="148"/>
         <source>Click to mark as Queued (to be sent) all the eQSL (LoTW and eQSL) in all the new QSO by default.</source>
-        <translation>Нажмите, чтобы пометить в очередь (для отправки) все eQSL (LoTW и eQSL) во всех новых QSO.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="149"/>
         <source>Delete Always the adif file created after uploading QSOs</source>
-        <translation>Удалить всегда файл adif, созданный после загрузки QSO</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="163"/>
         <source>Dupe time range:</source>
-        <translation>Повтор временного диапазона:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="270"/>
         <source>Open File</source>
-        <translation>Открыть файл</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="435"/>
         <source>Select Directory</source>
-        <translation>Выбрать каталог</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="466"/>
         <source>This is the directory where DB (logbook.dat) will be saved.</source>
-        <translation>Это каталог, в котором будет сохраняться DB (logbook.dat).</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="472"/>
         <source>Please specify an existing directory where the database (logbook.dat) will be saved.</source>
-        <translation>Пожалуйста, укажите существующий каталог, в котором будет сохранена база данных (logbook.dat).</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="493"/>
         <source>KLog - Move DB</source>
-        <translation>Klog - перемещение БД</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="512"/>
         <source>File moved</source>
-        <translation>Файл перемещён</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="523"/>
         <source>File copied</source>
-        <translation>Файл скопирован</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="541"/>
         <source>File already exist.</source>
-        <translation>Файл уже существует.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="542"/>
         <source>The destination file already exist and KLog will not replace it. Please remove the file from the destination folder before moving the file with KLog to make sure KLog can copy the file.</source>
-        <translation>Файл назначения уже существует, и KLog не заменит его. Удалите файл из папки назначения перед перемещением файла с помощью KLog, чтобы убедиться, что KLog может скопировать файл.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="547"/>
         <source>File NOT copied</source>
-        <translation>Файл НЕ скопирован</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="548"/>
         <source>The file was not copied due to an unknown problem.</source>
-        <translation>Файл не был скопирован из-за неизвестной проблемы.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagemisc.cpp" line="562"/>
         <source>The target directory does not exist. Please select an existing directory.</source>
-        <translation>Целевой каталог не существует. Выберите существующий каталог.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7477,115 +7471,115 @@ The log will not be opened.</source>
         <location filename="../tipsdialog.cpp" line="130"/>
         <source>&lt;b&gt;Tip #1:&lt;/b&gt;&lt;br&gt;Do you know...&lt;br&gt;You can use &lt;a href=&quot;#ToolsFillInQSO&quot;&gt;Tools-&gt;Fill in QSO data&lt;/a&gt; to automatically read the full log to fill the DXCC, CQ, ITU zones and continent?</source>
         <extracomment>Translator: Please make sure that the name of the link is coherent with the menu Tools-&gt;Fill in QSO data</extracomment>
-        <translation>&lt;b&gt;Совет №1:&lt;/b&gt;&lt;br&gt; Знаете ли вы...&lt;br&gt; Вы можете использовать &lt;a href=&quot;#ToolsFillInQSO&quot;&gt; Инструменты- &gt; Заполните данные QSO&lt;/a&gt;, чтобы автоматически прочитать полный журнал для заполнения зон DXCC, CQ, ITU и континента?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tipsdialog.cpp" line="134"/>
         <source>&lt;b&gt;Tip #2:&lt;/b&gt;&lt;br&gt;Do you know...&lt;br&gt;You can use &lt;a href=&quot;#ToolsFillInDXCC&quot;&gt;Tools-&gt;Fill in DXCC data&lt;/a&gt; to automatically read the full log to fill the DXCC QSO data?</source>
         <extracomment>Translator: Please make sure that the name of the link is coherent with the menu Tools-&gt;Fill in DXCC data</extracomment>
-        <translation>&lt;b&gt;Совет № 2:&lt;/b&gt;&lt;br&gt; Знаете ли вы...&lt;br&gt; Вы можете использовать &lt;a href=&quot;#ToolsFillInDXCC&quot;&gt; Инструменты- &gt; Заполнить данные DXCC&lt;/a&gt; для автоматического чтения полного журнала для заполнения данных DXCC QSO?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tipsdialog.cpp" line="138"/>
         <source>&lt;b&gt;Tip #3:&lt;/b&gt;&lt;br&gt;Do you know...&lt;br&gt;You can use &lt;a href=&quot;#ToolsFindQSO2QSL&quot;&gt;Tools-&gt;QSL tools...-&gt;Find QSO to QSL&lt;/a&gt; to look for all those QSO that you should send your QSL because you still need to confirm that DXCC and you have still not send your QSL card?</source>
         <extracomment>Translator: Please make sure that the name of the link is coherent with the menu Tools-&gt;QSL tools...-&gt;Find QSO to QSL</extracomment>
-        <translation>&lt;b&gt; Совет № 3:&lt;/b&gt;&lt;br&gt; Знаете ли вы...&lt;br&gt; Вы можете использовать &lt;a href=&quot;#ToolsFindQSO2QSL&quot;&gt; Инструменты- &gt; Инструменты QSL... - &gt; Найти QSO в QSL&lt;/a&gt;, чтобы найти все эти QSO, которые вы должны отправить QSL, потому что вам все еще нужно подтвердить, что DXCC, и вы все еще не отправили свою карту QSL?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tipsdialog.cpp" line="142"/>
         <source>&lt;b&gt;Tip #4:&lt;/b&gt;&lt;br&gt;Do you know...&lt;br&gt;You can export your QSO marked as QSL requested with &lt;a href=&quot;#FileExportQSLADIFToPrint&quot;&gt;File-&gt;Export Requested QSL to ADIF...&lt;/a&gt; to create an ADIF file that you will be able to import into a QSL tag creation program to print tags for your QSL cards?</source>
         <extracomment>Translator: Please make sure that the name of the link is coherent with the menu File-&gt;Export Requested QSL to ADIF...</extracomment>
-        <translation>&lt;b&gt; Совет № 4:&lt;/b&gt;&lt;br&gt; Знаете ли вы...&lt;br&gt; Вы можете экспортировать свой QSO, помеченный как QSL, с помощью &lt;a href=&quot;#FileExportQSLADIFToPrint&quot;&gt; Файла- &gt; Экспорт запрошенного QSL в ADIF...&lt;/a&gt; для создания ADIF файл, который вы сможете импортировать в программу создания тегов QSL для печати тегов для ваших карт QSL?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tipsdialog.cpp" line="145"/>
         <source>&lt;b&gt;Tip #5:&lt;/b&gt;&lt;br&gt;Do you know...&lt;br&gt;You can enter a &apos;*&apos; in the search box, in the search window to search for all the QSOs done with one specific station callsign?</source>
-        <translation>&lt;b&gt; Совет № 5:&lt;/b&gt;&lt;br&gt; Знаете ли вы...&lt;br&gt; Вы можете ввести a &apos;*&apos; в поле поиска в окне поиска, чтобы найти все QSO, выполненные с помощью одного позывного станции?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tipsdialog.cpp" line="149"/>
         <source>&lt;b&gt;Tip #6:&lt;/b&gt;&lt;br&gt;Do you know...&lt;br&gt;You can find the file containing all your log and other information in the logbook.dat file and the klogrc file, containing the KLog config file in the KLog folder by opening the &lt;a href=&quot;#FileOpenKLogFolder&quot;&gt;File-&gt;KLog folder&lt;/a&gt; menu?</source>
         <extracomment>Translator: Please make sure that the name of the link is coherent with the menu File-&gt;KLog folder</extracomment>
-        <translation>&lt;b&gt; Совет № 6: &lt;/b&gt;&lt;br&gt; Знаете ли вы...&lt;br&gt; Вы можете найти файл, содержащий всю вашу регистрационную и другую информацию, в файле logbook.dat и файле klogrc, содержащем конфигурационный файл KLog, в папке KLog, открыв &lt;a href=&quot;# FileOpenKL&quot;&gt; Файла- &gt; Папка KLog&lt;/a&gt; меню?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tipsdialog.cpp" line="155"/>
         <source>&lt;b&gt;Tip #7:&lt;/b&gt;&lt;br&gt;Do you know...&lt;br&gt;You can find the QSLs that you still need to send with &lt;a href=&quot;#ToolsSendPendingQSL&quot;&gt;Tools-&gt;QSL tools...-&gt;Find My-QSLs pending to send&lt;/a&gt;.&lt;bR&gt;This tool will list you in the search box all the QSOs with the QSL-Sent marked as &lt;i&gt;Requested&lt;/i&gt;.</source>
         <extracomment>Translator: Please make sure that the name of the link is coherent with the menu QSL tools...-&gt;Find My-QSLs pending to send</extracomment>
-        <translation>&lt;b&gt;Совет №7:&lt;/b&gt;&lt;br&gt;Знаете ли вы...&lt;br&gt; Вы можете найти QSL, которые вам все еще нужно отправить, с помощью &lt;a href=&quot;#ToolsSendPendingQSL&quot;&gt; Инструменты- &gt; Инструменты QSL... - &gt; Найти My-QSL в ожидании отправки&lt;/a&gt;.&lt;bR&gt;B этом инструменте в поле поиска будут перечислены все QSO с QSL-Sent, помеченным как &lt;i&gt;Запрошено&lt;/i&gt;.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tipsdialog.cpp" line="159"/>
         <source>&lt;b&gt;Tip #8:&lt;/b&gt;&lt;br&gt;Do you know...&lt;br&gt;You can find the QSLs that you are still waiting for with &lt;a href=&quot;#ToolsReceivePendingQSL&quot;&gt;Tools-&gt;QSL tools...-&gt;Find DX-QSLs pending to receive&lt;/a&gt;.&lt;bR&gt;This tool will list you in the search box all the QSOs with the QSL-Sent marked as &lt;i&gt;Sent&lt;/i&gt; but you have still not received the QSL card from the DX.</source>
         <extracomment>Translator: Please make sure that the name of the link is coherent with the menu QSL tools...-&gt;Find DX-QSLs pending to receive</extracomment>
-        <translation>&lt;b&gt;Совет № 8:&lt;/b&gt;&lt;br&gt;Знаете ли вы...&lt;br&gt;Вы можете найти QSL, которые вы все еще ожидаете, с помощью &lt;a href=&quot;# ToolsReceivePendingQSL&quot;&gt; Инструменты- &gt;Инструменты QSL... -&gt;Найти DX-QSL, ожидающие получения &lt;/a&gt;.&lt;bR&gt;B этом инструменте в поле поиска перечисляются все QSO, для которых параметр QSL-Sent имеет значение &lt;i&gt;Sent&lt;/i&gt;, но QSL-карточка еще не получена от DX.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tipsdialog.cpp" line="163"/>
         <source>&lt;b&gt;Tip #9:&lt;/b&gt;&lt;br&gt;Do you know...&lt;br&gt;You can find the QSLs that you are still waiting for with &lt;a href=&quot;#ToolsReceiveRecPendingQSL&quot;&gt;Tools-&gt;QSL tools...-&gt;Find requested pending to receive&lt;/a&gt;.&lt;bR&gt;This tool will list you in the search box all the QSOs with the QSL-Rec marked as &lt;i&gt;Requested&lt;/i&gt; but you have still not received the QSL card from the DX.</source>
         <extracomment>Translator: Please make sure that the name of the link is coherent with the menu QSL tools...-&gt;Find requested pending to receive</extracomment>
-        <translation>&lt;b&gt;Совет № 9:&lt;/b&gt;&lt;br&gt;Знаете ли вы...&lt;br&gt;Вы можете найти QSL, которые вы все еще ожидаете, с помощью &lt;a href=&quot;# ToolsReceiveRecPendingQSL&quot;&gt;Tools-&gt;QSL tools...-&gt; Найти запрошенные в ожидании получения &lt;/а&gt;.&lt;bR&gt;Этот инструмент отобразит в поле поиска все QSO с QSL-Rec, помеченным как &lt;i&gt; Запрошено &lt;/i&gt;, но вы все еще не получили карту QSL от DX.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tipsdialog.cpp" line="166"/>
         <source>&lt;b&gt;Tip #10:&lt;/b&gt;&lt;br&gt;Do you know...&lt;br&gt;You can subscribe to the &lt;a href=https://t.me/klogchat&gt;English KLog Telegram group&lt;/a&gt; to discuss about KLog in English?</source>
-        <translation>&lt;b&gt;Совет № 10:&lt;/b&gt;&lt;br&gt; Знаете ли вы...&lt;br&gt;Вы можете подписаться на группу &lt; a href= https ://t.me/klogchat&gt;English KLog Telegram group&lt;/a&gt; для обсуждения KLog на английском языке?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tipsdialog.cpp" line="169"/>
         <source>&lt;b&gt;Tip #11:&lt;/b&gt;&lt;br&gt;Do you know...&lt;br&gt;You can subscribe to the &lt;a href=https://t.me/KLogES&gt;Spanish Telegram group&lt;/a&gt; to discuss about KLog in Spanish?</source>
-        <translation>&lt;b&gt;Совет № 11:&lt;/b&gt;&lt;br&gt;Знаете ли вы...&lt;br&gt;Вы можете подписаться на &lt; a href=https ://t.me/KLogES&gt;испанскую группу Telegram&lt;/a&gt; для обсуждения KLog на испанском языке?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tipsdialog.cpp" line="172"/>
         <source>&lt;b&gt;Tip #12:&lt;/b&gt;&lt;br&gt;Do you know...&lt;br&gt;You can subscribe to &lt;a href=https://lists.nongnu.org/mailman/listinfo/klog-users&gt;KLog-users mailing list&lt;/a&gt; to discuss via email about KLog in English?</source>
-        <translation>&lt;b&gt;Совет № 12:&lt;/b&gt;&lt;br&gt;Знаете ли вы...&lt;br&gt;Вы можете подписаться на &lt; a href=https ://lists.nongnu.org/mailman/listinfo/klog-users&gt; список рассылки KLog-users&lt;/a&gt; для обсуждения по электронной почте о KLog на английском языке?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tipsdialog.cpp" line="175"/>
         <source>&lt;b&gt;Tip #13:&lt;/b&gt;&lt;br&gt;Do you know...&lt;br&gt;You can &lt;a href=https://twitter.com/_ea4k&gt;follow EA4K on twitter&lt;/a&gt; to get updates about KLog?</source>
-        <translation>&lt;b&gt;Совет № 13:&lt;/b&gt;&lt;br&gt;Знаете ли вы...&lt;br&gt;Вы можете &lt; a href=https ://twitter.com/_ ea4k&gt; следить за EA4K в Твиттере&lt;/а&gt;, чтобы получать обновления о KLog?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tipsdialog.cpp" line="178"/>
         <source>&lt;b&gt;Tip #14:&lt;/b&gt;&lt;br&gt;Do you know...&lt;br&gt;You can write your own &lt;a href=https://www.eham.net/reviews/detail/3118&gt;review in eHam.net about KLog&lt;/a&gt; to help other users to decide to use KLog?</source>
-        <translation>&lt;b&gt;Совет № 14:&lt;/b&gt;&lt;br&gt;Знаете ли вы...&lt;br&gt;Вы можете написать свой собственный &lt; a href=https ://www.eham.net/reviews/detail/3118&gt; обзор в eHam.net о KLog&lt;/a&gt;, чтобы помочь другим пользователям принять решение использовать KLog?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tipsdialog.cpp" line="181"/>
         <source>&lt;b&gt;Tip #15:&lt;/b&gt;&lt;br&gt;Do you know...&lt;br&gt;You can join the development team by simply &lt;a href=https://www.klog.xyz/contact&gt;Contacting us&lt;/a&gt;?</source>
-        <translation>&lt;b&gt;Совет № 15:&lt;/b&gt;&lt;br&gt;Знаете ли вы...&lt;br&gt;Вы можете присоединиться к команде разработчиков, просто &lt; a href=https ://www.klog.xyz/contact&gt;Связавшись с нами&lt;/a&gt;?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tipsdialog.cpp" line="184"/>
         <source>&lt;b&gt;Tip #16:&lt;/b&gt;&lt;br&gt;Do you know...&lt;br&gt;That there are many ways to contribute to KLog and some of them are listed in the &lt;a href=https://www.klog.xyz/contrib&gt;KLog Contribute&lt;/a&gt; page?</source>
-        <translation>&lt;b&gt;Совет № 16:&lt;/b&gt;&lt;br&gt;Знаете ли вы...&lt;br&gt;Что есть много способов внести свой вклад в KLog, и некоторые из них перечислены на странице &lt; a href=https ://www.klog.xyz/contrib&gt; KLog Contribute &lt;/a&gt;?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tipsdialog.cpp" line="187"/>
         <source>&lt;b&gt;Tip #17:&lt;/b&gt;&lt;br&gt;Do you know...&lt;br&gt;You can support translating KLog into your language? Please check &lt;a href=https://www.klog.xyz/contrib/translations&gt;KLog Translations&lt;/a&gt; page.</source>
-        <translation>&lt;b&gt;Совет № 17:&lt;/b&gt;&lt;br&gt;Знаете ли вы...&lt;br&gt;Вы можете поддерживать перевод KLog на ваш язык? Проверьте страницу&lt;a href=https ://www.klog.xyz/contrib/translations&gt; KLog Translations&lt;/a&gt;.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tipsdialog.cpp" line="190"/>
         <source>&lt;b&gt;Tip #18:&lt;/b&gt;&lt;br&gt;Do you know...&lt;br&gt;You can double-click on an entity name in the DXCC table and all the QSOs with that DXCC Entity will be shown in the search box?</source>
-        <translation>&lt;b&gt;Совет № 18:&lt;/b&gt;&lt; br&gt;Знаете ли вы...&lt;br&gt; Вы можете дважды щелкнуть имя сущности в таблице DXCC, и все QSO с этой сущностью DXCC будут показаны в поле поиска?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tipsdialog.cpp" line="193"/>
         <source>&lt;b&gt;Tip #19:&lt;/b&gt;&lt;br&gt;Do you know...&lt;br&gt;You can right-click on a QSO and select &lt;i&gt;Check in QRZ.com&lt;/i&gt; to check that callsign in QRZ.com?</source>
-        <translation>&lt;b&gt;Совет № 19:&lt;/b&gt;&lt;br&gt;Знаете ли Вы...&lt;br&gt;Вы можете щелкнуть правой кнопкой мыши QSO и выбрать&lt;i&gt;Проверить в QRZ.com&lt;/i&gt;, чтобы проверить эту подпись QRZ.com?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tipsdialog.cpp" line="196"/>
         <source>&lt;b&gt;Tip #20:&lt;/b&gt;&lt;br&gt;Do you know...&lt;br&gt;You can see the QSO that confirms one specific DXCC entity in one specific band by poiting your mouse over that band in the DXCC widget?</source>
-        <translation>&lt;b&gt;Совет № 20:&lt;/b&gt;&lt;br&gt;Знаете ли вы...&lt;br&gt;Вы можете увидеть QSO, который подтверждает одну конкретную сущность DXCC в одной конкретной полосе, наведя курсор мыши на эту полосу в виджете DXCC?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tipsdialog.cpp" line="200"/>
         <source>&lt;b&gt;Tip #21:&lt;/b&gt;&lt;br&gt;Do you know...&lt;br&gt;You can upload your QSO marked as queued to LoTW via TQSL with &lt;a href=&quot;#ToolsUploadLoTW&quot;&gt;Tools-&gt;Upload to LoTW...&lt;/a&gt; ?&lt;br&gt;&lt;br&gt;You have to configure TQSL in the preferences to be able to use this functionality.</source>
         <extracomment>Translator: Please make sure that the name of the link is coherent with the menu File-&gt;Export ADIF for LoTW...</extracomment>
-        <translation>&lt;b&gt;Совет №7:&lt;/b&gt;&lt;br&gt;Знаете ли вы...&lt;br&gt; Вы можете найти QSL, которые вам все еще нужно отправить, с помощью &lt;a href=&quot;#ToolsSendPendingQSL&quot;&gt; Инструменты- &gt; Инструменты QSL... - &gt; Найти My-QSL в ожидании отправки&lt;/a&gt;.&lt;bR&gt;B этом инструменте в поле поиска будут перечислены все QSO с QSL-Sent, помеченным как &lt;i&gt;Запрошено&lt;/i&gt;.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tipsdialog.cpp" line="203"/>
